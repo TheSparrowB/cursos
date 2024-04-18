@@ -109,6 +109,9 @@ print(sumando1 + sumando2)
 ## **SOLO PARA GITHUB:**
 
 * [x] Aprendiendo Markdown
-* [] Aprendido Git
+* [ ] Aprendido Git
 * [x] Apendiendo React
-* [] Apendiendo .NET Core
+* [ ] Apendiendo .NET Core
+
+
+@TheSparrowB is a student :+1::smiley:.
