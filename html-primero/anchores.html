@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width">
+        <link rel="icon" type="image/png" href="/assets/img/png/nice.png">
+        
+        <title>ANCHORES</title>
+        <meta name="description" content="En esta página estudiaremos un poco sobre los anchores.">
+    
+        <style>
+            body {
+                background: #f0f0f0;
+            }
+        </style>
+        <link rel="stylesheet" href="/assets/css/prism/prism.css" data-noprefix />
+    </head>
+    
+    <body>
+
+        <h1>HIPERVÍNCULOS</h1>
+        
+        <section>
+            <p>Se pueden utilizar hipervínculos de distintas maneras. Sin embargo,
+                es necesario incluirle siempre el atributo <strong>"href"</strong>.
+                <br/>
+                A continuación se muestran algunos ejemplos del uso del hipervínculo.
+            </p>
+
+            <pre>
+                <code class="language-html">
+&lt;a href="mailto:potato_riko@outlook.com"&gt;Enviarle un correo&lt;/a&gt;
+&lt;a href="tel:+51998998998"&gt;Realizar una llamada&lt;/a&gt;
+&lt;a href="https://wa.me/15551234567" target="_blank"&gt;Realizar un whatsapazo!&lt;/a&gt;
+                </code>
+            </pre>
+
+            <p>Lo mostrado en el bloque de código anterior se traduce a lo siguiente:</p>
+            <ul>
+                <li><a href="mailto:potato_riko@outlook.com">Enviarle un correo</a></li>
+                <li><a href="tel:+51998998998">Realizar una llamada</a></li>
+                <li><a href="https://wa.me/15551234567" target="_blank">Realizar un whatsapazo!</a></li>
+            </ul>
+
+            <br>
+            <br>
+
+            <p>Un elemento &lt;a&gt; también puede utilizarse para "envolver" ciertos elementos, es decir,
+                se pueden incluir elementos diferentes a textos dentro de un hipervínculo.
+            </p>
+            <div style="width: 100%;">
+                <div style="width: 33%;">
+                    <a href="/assets/img/bomber.jpg" download>
+                        <img src="/assets/img/bomber.jpg" width="150px">
+                    </a>
+                </div>
+                <div style="width: 33%;">
+                    <a href="">
+                        <audio controls>
+                            <source src="/assets/audio/wow.mp3" type="audio/mpeg">
+                        </audio>
+                    </a>
+                </div>
+                <div style="width: 33%;">
+                    <a href="/assets/img/bomber.jpg" download="">
+                        <div style="width: 100%; width: 150px; background-color: #bbd156;">
+                            HOLA, SOY UN DIV XD
+                        </div>
+                    </a>
+                </div>
+            </div>
+
+            <p>
+                Si se le realiza un click al primer o al segundo elemento, se podrá notar que
+                aparecerá un diálogo de descarga automática. Esto es posible gracias al atributo 
+                <strong>download</strong> el cual permite una descarga instantánea a partir de un
+                click. Eso sí, solo se podrán descargar archivos que sean locales o pertenezcan
+                al dominio de la aplicación. Si el archivo pertenece a otro dominio, se abrirá
+                una nueva pestaña.
+            </p>
+
+        </section>
+
+
+        <script src="/assets/js/prism/prism.js"></script>
+    </body>
+</html>

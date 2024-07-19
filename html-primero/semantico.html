@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Estructura Semántica</title>
+        <link rel="icon" type="image/png" href="/assets/img/png/nice.png">
+        
+        <link rel="stylesheet" href="/assets/css/prism/prism.css" data-noprefix />
+    </head>
+
+
+    <body>
+        <header id="cabecera">
+            <h1>HTML SEMÁNTICO</h1>
+            <hr>
+
+            <nav>
+                <a href="./index.html">Inicio</a>
+                <a href="./estructura.html">Estructura</a>
+                <a href="https://llifle.com" target="_blank" rel="noreferrer">Suculentero</a>
+            </nav>
+
+            <nav>
+                Ir a
+                <a href="#nosemantico">HTML No Semántico</a>
+                <a href="#semantico">HTML Semántico</a>
+            </nav>
+        </header>
+
+        <main>            
+            <p>
+                La aplicación HTML semántica es una forma de utilizar las etiquetas de modo
+                que cada una describa correctamente el contenido que contienen.
+            </p>
+            <p>
+                Cuando se habla de HTML semántico, se habla principalmente
+                de las etiquetas. Estas etiquetas describen el rol del contenido
+                ya sea tanto para el browser o el desarrollador y hacen que el código sea
+                más "entendible". Por ejemplo:
+            </p>
+
+            <ul>
+                <li>
+                    &lt;form&gt;, &lt;article&gt; y &lt;table&gt; son etiquetas semánticas. Ya que, claramente indican el contenido que deberían de albergar. 
+                    Algunos como &lt;h1&gt; o &lt;p&gt; son etiquetas semánticas mucho más específicas.
+                </li>
+                <li>
+                    &lt;div&gt; y &lt;span&gt; no son semánticos ya que no describen el rol acerca del contenido que albergarán ni tienen un significado específico.
+                </li>
+            </ul>
+
+            <p>
+                Un punto muy importante a tocar, es que las etiquetas HTML semánticas tienen
+                una gran importancia para la accesibilidad. Es decir, las etiquetas HTML semánticas
+                tienen el propósito también de hacer "accesible" el contenido para las personas
+                con habilidades diferentes y/o discapacitadas.
+            </p>
+            <hr>
+
+
+            <section id="nosemantico">
+                <h3>HTML no Semántico</h3>
+                <p>
+                    A continuación, un ejemplo de una estructura HTML no semántica.
+                </p>
+                <pre>
+                    <code class="language-html">
+    &lt;span&gt;Cosas de Personajes&lt;/span&gt;
+
+    &lt;div&gt;
+        &lt;span&gt;Facciones&lt;/span&gt;
+        &lt;div&gt;
+            &lt;span&gt;The Valiant Hexen&lt;/span&gt;
+            &lt;span&gt;The Fried Crabs&lt;/span&gt;
+            &lt;span&gt;The Dusty Ones&lt;/span&gt;
+            &lt;span&gt;The Crazy Riders&lt;/span&gt;
+            &lt;span&gt;The Sweety Warriors&lt;/span&gt;
+            &lt;span&gt;The Naughty Rodents&lt;/span&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+
+    &lt;div&gt;
+        &lt;div&gt;
+            &lt;div&gt;Armas&lt;/div&gt;
+            &lt;div&gt;
+                Existe una variedad de armas que las diversas facciones utilizan. Desde aquellas que sirven para un solo 
+                objetivo así como aquellas que sirven para destruir masas de individuos. ¿Serás capaz de sobrevivir ante
+                estas amenazas?
+            &lt;/div&gt;
+            &lt;div&gt;Tipos: a balas, explosivas, láser, químicas, mágicas.&lt;/div&gt;
+        &lt;/div&gt;
+
+        &lt;div&gt;
+            &lt;div&gt;Escenarios&lt;/div&gt;
+            &lt;div&gt;
+                Las diversas facciones viven en lugares muy curiosos y extrañamente agradables. Cualquier
+                lugar puede ser utilizado como la tumba de un pobre despistado.
+            &lt;/div&gt;
+            &lt;div&gt;Lugares: bosques, playas, desiertos, llanuras, montañas, etc.&lt;/div&gt;
+        &lt;/div&gt;
+
+        &lt;div&gt;
+            &lt;div&gt;Botines&lt;/div&gt;
+            &lt;div&gt;
+                Cada facción es responsable de producir elementos con los insumos y materiales que tienen a la mano.
+                Sin embargo, en los momentos de escacez, ¿quién sabe?, uno mismo podría servir de mercancía.
+            &lt;/div&gt;
+            &lt;div&gt;Tipos: comida, armas, reliquias, tecnología, individuos, etc.&lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+                    </code>
+                </pre>
+
+                <p>Todo el código HTML mostrada en el panel superior luce así al ser renderizado:</p>
+
+
+
+                <span>Cosas de Personajes</span>
+                <div>
+                    <span>Facciones</span>
+                    <div>
+                        <span>The Valiant Hexen</span>
+                        <span>The Fried Crabs</span>
+                        <span>The Dusty Ones</span>
+                        <span>The Crazy Riders</span>
+                        <span>The Sweety Warriors</span>
+                        <span>The Naughty Rodents</span>
+                    </div>
+                </div>
+                <div>
+                    <div>
+                        <div>Armas</div>
+                        <div>
+                            Existe una variedad de armas que las diversas facciones utilizan. Desde aquellas que sirven para un solo 
+                            objetivo así como aquellas que sirven para destruir masas de individuos. ¿Serás capaz de sobrevivir ante
+                            estas amenazas?
+                        </div>
+                        <div>Tipos: a balas, explosivas, láser, químicas, mágicas.</div>
+                    </div>
+
+                    <div>
+                        <div>Escenarios</div>
+                        <div>
+                            Las diversas facciones viven en lugares muy curiosos y extrañamente agradables. Cualquier
+                            lugar puede ser utilizado como la tumba de un pobre despistado.
+                        </div>
+                        <div>Lugares: bosques, playas, desiertos, llanuras, montañas, etc.</div>
+                    </div>
+
+                    <div>
+                        <div>Botines</div>
+                        <div>
+                            Cada facción es responsable de producir elementos con los insumos y materiales que tienen a la mano.
+                            Sin embargo, en los momentos de escacez, ¿quién sabe?, uno mismo podría servir de mercancía.
+                        </div>
+                        <div>Tipos: comida, armas, reliquias, tecnología, individuos, etc.</div>
+                    </div>
+                </div>
+
+                <p>
+                    Lo mostrado es un código HTML no semántico. Tan solo con verlo no se puede definir bien
+                    el contenido. Asimismo, es mucho más difícil encontrar la estructura y/o seguir el "flujo"
+                    del contenido en sí. Si bien el contenido se ve muy mal debido a que le faltan estilos. 
+                    El solo hecho de agregarle estilos a los elementos los hará mucho más difíciles de leer.
+                    (A nivel de programación)
+                </p>
+            </section>
+
+
+            <hr/>
+
+
+            <section id="semantico">
+                <h3>HTML Semántico</h3>
+                <p>
+                    Tomando en cuenta el código anterior, utilizando correctamente las etiquetas HTML
+                    de forma semántica, el código luciría así:
+                </p>
+
+
+                <pre>
+                    <code class="language-html">
+    &lt;h3&gt;Cosas de Personajes&lt;/h3&gt;
+    &lt;aside&gt;
+        &lt;header&gt;
+            &lt;h4&gt;Facciones&lt;/h4&gt;
+        &lt;/header&gt;            
+        &lt;ul&gt;
+            &lt;li&gt;The Valiant Hexen&lt;/li&gt;
+            &lt;li&gt;The Fried Crabs&lt;/li&gt;
+            &lt;li&gt;The Dusty Ones&lt;/li&gt;
+            &lt;li&gt;The Crazy Riders&lt;/li&gt;
+            &lt;li&gt;The Sweety Warriors&lt;/li&gt;
+            &lt;li&gt;The Naughty Rodents&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/aside&gt;
+    &lt;section&gt;
+        &lt;article&gt;
+            &lt;header&gt;
+                &lt;h4&gt;Armas&lt;/h4&gt;
+            &lt;/header&gt;
+            &lt;p&gt;
+                Existe una variedad de armas que las diversas facciones utilizan. Desde aquellas que sirven para un solo 
+                objetivo así como aquellas que sirven para destruir masas de individuos. ¿Serás capaz de sobrevivir ante
+                estas amenazas?
+            &lt;/p&gt;
+            &lt;footer&gt;
+                &lt;small&gt;Tipos: a balas, explosivas, láser, químicas, mágicas.&lt;/small&gt;
+            &lt;/footer&gt;
+        &lt;/article&gt;
+
+        &lt;article&gt;
+            &lt;header&gt;
+                &lt;h4&gt;Escenarios&lt;/h4&gt;
+            &lt;/header&gt;
+            &lt;p&gt;
+                Las diversas facciones viven en lugares muy curiosos y extrañamente agradables. Cualquier
+                lugar puede ser utilizado como la tumba de un pobre despistado.
+            &lt;/p&gt;
+            &lt;footer&gt;
+                &lt;small&gt;Lugares: bosques, playas, desiertos, llanuras, montañas, etc.&lt;/small&gt;
+            &lt;/footer&gt;
+        &lt;/article&gt;
+
+        &lt;article&gt;
+            &lt;header&gt;
+                &lt;h4&gt;Botines&lt;/h4&gt;
+            &lt;/header&gt;
+            &lt;p&gt;
+                Cada facción es responsable de producir elementos con los insumos y materiales que tienen a la mano.
+                Sin embargo, en los momentos de escacez, ¿quién sabe?, uno mismo podría servir de mercancía.
+            &lt;/p&gt;
+            &lt;footer&gt;
+                &lt;small&gt;Tipos: comida, armas, reliquias, tecnología, individuos, etc.&lt;/small&gt;
+            &lt;/footer&gt;
+        &lt;/article&gt;
+    &lt;/section&gt;
+                    </code>
+                </pre>
+
+
+                <h3>Cosas de Personajes</h3>
+                <aside>
+                    <header>
+                        <h4>Facciones</h4>
+                    </header>            
+                    <ul>
+                        <li>The Valiant Hexen</li>
+                        <li>The Fried Crabs</li>
+                        <li>The Dusty Ones</li>
+                        <li>The Crazy Riders</li>
+                        <li>The Sweety Warriors</li>
+                        <li>The Naughty Rodents</li>
+                    </ul>
+                </aside>
+                <section>
+                    <article>
+                        <header>
+                            <h4>Armas</h4>
+                        </header>
+                        <p>
+                            Existe una variedad de armas que las diversas facciones utilizan. Desde aquellas que sirven para un solo 
+                            objetivo así como aquellas que sirven para destruir masas de individuos. ¿Serás capaz de sobrevivir ante
+                            estas amenazas?
+                        </p>
+                        <footer>
+                            <small>Tipos: a balas, explosivas, láser, químicas, mágicas.</small>
+                        </footer>
+                    </article>
+
+                    <article>
+                        <header>
+                            <h4>Escenarios</h4>
+                        </header>
+                        <p>
+                            Las diversas facciones viven en lugares muy curiosos y extrañamente agradables. Cualquier
+                            lugar puede ser utilizado como la tumba de un pobre despistado.
+                        </p>
+                        <footer>
+                            <small>Lugares: bosques, playas, desiertos, llanuras, montañas, etc.</small>
+                        </footer>
+                    </article>
+
+                    <article>
+                        <header>
+                            <h4>Botines</h4>
+                        </header>
+                        <p>
+                            Cada facción es responsable de producir elementos con los insumos y materiales que tienen a la mano.
+                            Sin embargo, en los momentos de escacez, ¿quién sabe?, uno mismo podría servir de mercancía.
+                        </p>
+                        <footer>
+                            <small>Tipos: comida, armas, reliquias, tecnología, individuos, etc.</small>
+                        </footer>
+                    </article>
+                </section>
+            </section>
+
+
+            <hr/>
+
+
+            <section #elementos>
+                <h3>Elementos vistos</h3>
+                <p>Ahora definiremos algunos de los elemento utilizados anteriormente:</p>
+                <ol>
+                    <li>&lt;aside&gt;: consiste en un contenido indirectamente relacionado con el contenido principal.</li>
+                    <li>&lt;header&gt;: es un elemento que sirve para poder realizar encabezados.</li>
+                    <li>&lt;section&gt;: solo representa una sección genérica en la página HTML. PD: esta elemento debería de tener siempre un encabezado.</li>
+                    <li>&lt;article&gt;: es parecido a una sección, pero su contenido debe de ser independiente y tener sentido por sí mismo.</li>
+                    <li>&lt;footer&gt;: simplemente representa un pie de página, sección, artículo, etc.</li>
+                    <li>&lt;small&gt;: este elemento puede albergar información complementaria como comentarios o notas explicativas. La fuente de su contenido es pequeña por defecto.</li>
+                </ol>
+            </section>
+        </main>
+
+        <script src="/assets/js/prism/prism.js"></script>
+    </body>
+</html>

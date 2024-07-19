@@ -1,0 +1,1403 @@
+[2024-06-05 16:22:37] [32minfo[39m: Empezando el servidor
+[2024-06-05 16:22:37] [32minfo[39m: --Inicializamos la BD Mongoose
+[2024-06-05 16:22:38] [31merror[39m: --Error al inicializar la BD Mongoose:
+ MongoServerError: Authentication failed.
+ FIN
+[2024-06-05 16:41:49] info: Empezando el servidor
+[2024-06-05 16:41:49] info: --Inicializamos la BD Mongoose
+[2024-06-05 16:41:49] error: --Error al inicializar la BD Mongoose:
+ MongoServerError: Authentication failed.
+ FIN
+[2024-06-05 16:42:17] info: Empezando el servidor
+[2024-06-05 16:42:17] info: --Inicializamos la BD Mongoose
+[2024-06-05 16:42:17] error: --Error al inicializar la BD Mongoose:
+ MongoServerError: Authentication failed.
+ FIN
+[2024-06-05 16:42:52] info: Empezando el servidor
+[2024-06-05 16:42:52] info: --Inicializamos la BD Mongoose
+[2024-06-05 16:42:52] error: --Error al inicializar la BD Mongoose:
+ MongoServerError: Authentication failed.
+ FIN
+
+[2024-06-05 16:43:03] info: Empezando el servidor
+[2024-06-05 16:43:03] info: --Inicializamos la BD Mongoose
+[2024-06-05 16:43:04] error: --Error al inicializar la BD Mongoose:
+ MongoServerError: Authentication failed.
+ FIN
+
+[2024-06-05 16:43:13] info: Empezando el servidor
+[2024-06-05 16:43:13] info: --Inicializamos la BD Mongoose
+[2024-06-05 16:43:13] error: --Error al inicializar la BD Mongoose:
+ MongoServerError: Authentication failed.
+ FIN
+
+[2024-06-05 16:47:48] info: Empezando el servidor
+[2024-06-05 16:47:48] info: --Inicializamos la BD Mongoose
+[2024-06-05 16:47:48] info: --Base de datos Mongoose iniciada
+[2024-06-05 16:47:48] info: Inicializando otros componentes
+[2024-06-05 16:47:48] info: Servidor funcionando en localhost:3100
+[2024-06-05 16:48:29] info: Empezando el servidor
+[2024-06-05 16:48:29] info: --Inicializamos la BD Mongoose
+[2024-06-05 16:48:29] info: --Base de datos Mongoose iniciada
+[2024-06-05 16:48:29] info: Inicializando otros componentes
+[2024-06-05 16:48:29] info: Servidor funcionando en localhost:3100
+[2024-06-05 16:52:15] info: Empezando el servidor
+[2024-06-05 16:52:15] info: --Inicializamos la BD Mongoose
+[2024-06-05 16:52:15] info: --Base de datos Mongoose iniciada
+[2024-06-05 16:52:15] info: Inicializando otros componentes
+[2024-06-05 16:52:16] info: Servidor funcionando en localhost:3100
+[2024-06-05 16:54:38] info: Empezando el servidor
+[2024-06-05 16:54:38] info: --Inicializamos la BD Mongoose
+[2024-06-05 16:54:38] info: --Base de datos Mongoose iniciada
+[2024-06-05 16:54:38] info: Inicializando otros componentes
+[2024-06-05 16:54:38] info: Servidor funcionando en localhost:3100
+[2024-06-05 16:59:06] info: Empezando el servidor
+[2024-06-05 16:59:06] info: --Inicializamos la BD Mongoose
+[2024-06-05 16:59:06] info: --Base de datos Mongoose iniciada
+[2024-06-05 16:59:06] info: Inicializando otros componentes
+[2024-06-05 16:59:06] info: Servidor funcionando en localhost:3100
+[2024-06-05 16:59:56] info: Empezando el servidor
+[2024-06-05 16:59:56] info: --Inicializamos la BD Mongoose
+[2024-06-05 16:59:56] info: --Base de datos Mongoose iniciada
+[2024-06-05 16:59:56] info: Inicializando otros componentes
+[2024-06-05 16:59:56] info: Servidor funcionando en localhost:3100
+[2024-06-06 08:46:56] info: Empezando el servidor
+[2024-06-06 08:46:56] info: --Inicializamos la BD Mongoose
+[2024-06-06 08:46:56] info: --Base de datos Mongoose iniciada
+[2024-06-06 08:46:56] info: Inicializando otros componentes
+[2024-06-06 08:46:56] info: Servidor funcionando en localhost:3100
+[2024-06-06 10:25:09] info: Empezando el servidor
+[2024-06-06 10:25:09] info: --Inicializamos la BD Mongoose
+[2024-06-06 10:25:09] info: --Base de datos Mongoose iniciada
+[2024-06-06 10:25:09] info: Inicializando otros componentes
+[2024-06-06 10:25:09] info: Servidor funcionando en localhost:3100
+[2024-06-06 11:51:32] info: Empezando el servidor
+[2024-06-06 11:51:32] info: --Inicializamos la BD Mongoose
+[2024-06-06 11:51:33] info: --Base de datos Mongoose iniciada
+[2024-06-06 11:51:33] info: Inicializando otros componentes
+[2024-06-06 11:51:33] info: Servidor funcionando en localhost:3100
+[2024-06-06 11:56:14] info: Empezando el servidor
+[2024-06-06 11:56:14] info: --Inicializamos la BD Mongoose
+[2024-06-06 11:56:14] info: --Base de datos Mongoose iniciada
+[2024-06-06 11:56:14] info: Inicializando otros componentes
+[2024-06-06 11:56:14] info: Servidor funcionando en localhost:3100
+[2024-06-06 11:56:23] info: Empezando el servidor
+[2024-06-06 11:56:23] info: --Inicializamos la BD Mongoose
+[2024-06-06 11:56:23] info: --Base de datos Mongoose iniciada
+[2024-06-06 11:56:23] info: Inicializando otros componentes
+[2024-06-06 11:56:23] info: Servidor funcionando en localhost:3100
+[2024-06-06 11:57:08] info: Empezando el servidor
+[2024-06-06 11:57:08] info: --Inicializamos la BD Mongoose
+[2024-06-06 11:57:09] info: --Base de datos Mongoose iniciada
+[2024-06-06 11:57:09] info: Inicializando otros componentes
+[2024-06-06 11:57:09] info: Servidor funcionando en localhost:3100
+[2024-06-06 14:59:59] info: Empezando el servidor
+[2024-06-06 14:59:59] info: --Inicializamos la BD Mongoose
+[2024-06-06 14:59:59] info: --Base de datos Mongoose iniciada
+[2024-06-06 15:01:48] info: Empezando el servidor
+[2024-06-06 15:01:48] info: --Inicializamos la BD Mongoose
+[2024-06-06 15:01:48] info: --Base de datos Mongoose iniciada
+[2024-06-06 15:01:48] info: Inicializando otros componentes
+[2024-06-06 15:01:48] info: Servidor funcionando en localhost:3100
+[2024-06-06 15:06:19] info: Empezando el servidor
+[2024-06-06 15:06:19] info: --Inicializamos la BD Mongoose
+[2024-06-06 15:06:19] info: --Base de datos Mongoose iniciada
+[2024-06-06 15:06:19] info: Inicializando otros componentes
+[2024-06-06 15:06:19] info: Servidor funcionando en localhost:3100
+[2024-06-06 15:32:26] info: Empezando el servidor
+[2024-06-06 15:32:26] info: --Inicializamos la BD Mongoose
+[2024-06-06 15:32:26] info: --Base de datos Mongoose iniciada
+[2024-06-06 15:32:26] info: Inicializando otros componentes
+[2024-06-06 15:32:26] info: Servidor funcionando en localhost:3100
+[2024-06-06 15:33:07] info: Empezando el servidor
+[2024-06-06 15:33:07] info: --Inicializamos la BD Mongoose
+[2024-06-06 15:33:07] info: --Base de datos Mongoose iniciada
+[2024-06-06 15:33:07] info: Inicializando otros componentes
+[2024-06-06 15:33:07] info: Servidor funcionando en localhost:3100
+[2024-06-06 15:41:29] info: Empezando el servidor
+[2024-06-06 15:41:29] info: --Inicializamos la BD Mongoose
+[2024-06-06 15:41:29] info: --Base de datos Mongoose iniciada
+[2024-06-06 15:41:29] info: Inicializando otros componentes
+[2024-06-06 15:41:29] info: Servidor funcionando en localhost:3100
+[2024-06-06 15:42:22] info: Empezando el servidor
+[2024-06-06 15:42:22] info: --Inicializamos la BD Mongoose
+[2024-06-06 15:42:22] info: --Base de datos Mongoose iniciada
+[2024-06-06 15:42:22] info: Inicializando otros componentes
+[2024-06-06 15:42:22] info: Servidor funcionando en localhost:3100
+[2024-06-06 15:43:38] info: Empezando el servidor
+[2024-06-06 15:43:38] info: --Inicializamos la BD Mongoose
+[2024-06-06 15:43:38] info: --Base de datos Mongoose iniciada
+[2024-06-06 15:43:38] info: Inicializando otros componentes
+[2024-06-06 15:43:38] info: Servidor funcionando en localhost:3100
+[2024-06-06 15:43:43] info: Empezando el servidor
+[2024-06-06 15:43:43] info: --Inicializamos la BD Mongoose
+[2024-06-06 15:43:44] info: --Base de datos Mongoose iniciada
+[2024-06-06 15:43:44] info: Inicializando otros componentes
+[2024-06-06 15:43:44] info: Servidor funcionando en localhost:3100
+[2024-06-06 15:47:57] info: Empezando el servidor
+[2024-06-06 15:47:57] info: --Inicializamos la BD Mongoose
+[2024-06-06 15:47:57] info: --Base de datos Mongoose iniciada
+[2024-06-06 15:47:57] info: Inicializando otros componentes
+[2024-06-06 15:47:57] info: Servidor funcionando en localhost:3100
+[2024-06-06 15:48:48] info: Empezando el servidor
+[2024-06-06 15:48:48] info: --Inicializamos la BD Mongoose
+[2024-06-06 15:48:48] info: --Base de datos Mongoose iniciada
+[2024-06-06 15:48:48] info: Inicializando otros componentes
+[2024-06-06 15:48:48] info: Servidor funcionando en localhost:3100
+[2024-06-06 15:51:19] info: Empezando el servidor
+[2024-06-06 15:51:19] info: --Inicializamos la BD Mongoose
+[2024-06-06 15:51:19] info: --Base de datos Mongoose iniciada
+[2024-06-06 15:51:19] info: Inicializando otros componentes
+[2024-06-06 15:51:19] info: Servidor funcionando en localhost:3100
+[2024-06-06 15:52:13] info: Empezando el servidor
+[2024-06-06 15:52:13] info: --Inicializamos la BD Mongoose
+[2024-06-06 15:52:13] info: --Base de datos Mongoose iniciada
+[2024-06-06 15:52:13] info: Inicializando otros componentes
+[2024-06-06 15:52:13] info: Servidor funcionando en localhost:3100
+[2024-06-06 15:52:14] error: Error al gestionar un tipo:
+ValidationError: txt_tipo: Path `txt_tipo` is required., txt_grupo: Path `txt_grupo` is required.
+[2024-06-06 15:52:14] error: FIN
+
+[2024-06-06 15:53:18] info: Empezando el servidor
+[2024-06-06 15:53:18] info: --Inicializamos la BD Mongoose
+[2024-06-06 15:53:18] info: --Base de datos Mongoose iniciada
+[2024-06-06 15:53:18] info: Inicializando otros componentes
+[2024-06-06 15:53:18] info: Servidor funcionando en localhost:3100
+[2024-06-06 15:53:20] error: Error al gestionar un tipo:
+ValidationError: txt_tipo: Path `txt_tipo` is required., txt_grupo: Path `txt_grupo` is required.
+[2024-06-06 15:53:20] error: FIN
+
+[2024-06-06 15:53:23] error: Error al gestionar un tipo:
+ValidationError: txt_tipo: Path `txt_tipo` is required., txt_grupo: Path `txt_grupo` is required.
+[2024-06-06 15:53:23] error: FIN
+
+[2024-06-06 15:54:12] info: Empezando el servidor
+[2024-06-06 15:54:12] info: --Inicializamos la BD Mongoose
+[2024-06-06 15:54:12] info: --Base de datos Mongoose iniciada
+[2024-06-06 15:54:12] info: Inicializando otros componentes
+[2024-06-06 15:54:12] info: Servidor funcionando en localhost:3100
+[2024-06-06 16:05:41] info: Empezando el servidor
+[2024-06-06 16:05:41] info: --Inicializamos la BD Mongoose
+[2024-06-06 16:05:41] info: --Base de datos Mongoose iniciada
+[2024-06-06 16:05:41] info: Inicializando otros componentes
+[2024-06-06 16:05:41] info: Servidor funcionando en localhost:3100
+[2024-06-06 16:55:02] info: Empezando el servidor
+[2024-06-06 16:55:02] info: --Inicializamos la BD Mongoose
+[2024-06-06 16:55:02] info: --Base de datos Mongoose iniciada
+[2024-06-06 16:55:02] info: Inicializando otros componentes
+[2024-06-06 16:55:02] info: Servidor funcionando en localhost:3100
+[2024-06-06 16:56:33] info: Empezando el servidor
+[2024-06-06 16:56:33] info: --Inicializamos la BD Mongoose
+[2024-06-06 16:56:33] info: --Base de datos Mongoose iniciada
+[2024-06-06 16:56:33] info: Inicializando otros componentes
+[2024-06-06 16:56:33] info: Servidor funcionando en localhost:3100
+[2024-06-06 17:00:40] info: Empezando el servidor
+[2024-06-06 17:00:40] info: --Inicializamos la BD Mongoose
+[2024-06-06 17:00:40] info: --Base de datos Mongoose iniciada
+[2024-06-06 17:00:40] info: Inicializando otros componentes
+[2024-06-06 17:00:40] info: Servidor funcionando en localhost:3100
+[2024-06-06 17:01:05] info: Empezando el servidor
+[2024-06-06 17:01:05] info: --Inicializamos la BD Mongoose
+[2024-06-06 17:01:05] info: --Base de datos Mongoose iniciada
+[2024-06-06 17:01:05] info: Inicializando otros componentes
+[2024-06-06 17:01:05] info: Servidor funcionando en localhost:3100
+[2024-06-06 17:01:07] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:01:07] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:01:07] error: FIN
+
+[2024-06-06 17:01:17] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:01:17] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:01:17] error: FIN
+
+[2024-06-06 17:01:18] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:01:18] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:01:18] error: FIN
+
+[2024-06-06 17:01:18] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:01:18] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:01:18] error: FIN
+
+[2024-06-06 17:01:19] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:01:19] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:01:19] error: FIN
+
+[2024-06-06 17:01:20] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:01:20] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:01:20] error: FIN
+
+[2024-06-06 17:01:21] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:01:21] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:01:21] error: FIN
+
+[2024-06-06 17:01:21] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:01:21] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:01:21] error: FIN
+
+[2024-06-06 17:01:22] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:01:22] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:01:22] error: FIN
+
+[2024-06-06 17:01:22] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:01:22] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:01:22] error: FIN
+
+[2024-06-06 17:01:23] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:01:23] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:01:23] error: FIN
+
+[2024-06-06 17:01:24] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:01:24] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:01:24] error: FIN
+
+[2024-06-06 17:01:24] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:01:24] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:01:24] error: FIN
+
+[2024-06-06 17:01:25] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:01:25] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:01:25] error: FIN
+
+[2024-06-06 17:01:25] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:01:25] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:01:25] error: FIN
+
+[2024-06-06 17:01:26] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:01:26] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:01:26] error: FIN
+
+[2024-06-06 17:01:26] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:01:26] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:01:26] error: FIN
+
+[2024-06-06 17:01:26] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:01:26] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:01:26] error: FIN
+
+[2024-06-06 17:01:28] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:01:28] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:01:28] error: FIN
+
+[2024-06-06 17:01:29] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:01:29] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:01:29] error: FIN
+
+[2024-06-06 17:01:30] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:01:30] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:01:30] error: FIN
+
+[2024-06-06 17:01:31] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:01:31] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:01:31] error: FIN
+
+[2024-06-06 17:01:31] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:01:31] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:01:31] error: FIN
+
+[2024-06-06 17:01:32] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:01:32] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:01:32] error: FIN
+
+[2024-06-06 17:01:33] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:01:33] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:01:33] error: FIN
+
+[2024-06-06 17:01:33] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:01:33] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:01:33] error: FIN
+
+[2024-06-06 17:01:34] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:01:34] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:01:34] error: FIN
+
+[2024-06-06 17:01:34] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:01:34] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:01:34] error: FIN
+
+[2024-06-06 17:01:35] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:01:35] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:01:35] error: FIN
+
+[2024-06-06 17:01:36] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:01:36] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:01:36] error: FIN
+
+[2024-06-06 17:01:36] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:01:36] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:01:36] error: FIN
+
+[2024-06-06 17:01:37] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:01:37] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:01:37] error: FIN
+
+[2024-06-06 17:01:38] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:01:38] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:01:38] error: FIN
+
+[2024-06-06 17:01:38] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:01:38] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:01:38] error: FIN
+
+[2024-06-06 17:04:32] info: Empezando el servidor
+[2024-06-06 17:04:32] info: --Inicializamos la BD Mongoose
+[2024-06-06 17:04:33] info: --Base de datos Mongoose iniciada
+[2024-06-06 17:04:33] info: Inicializando otros componentes
+[2024-06-06 17:04:33] info: Servidor funcionando en localhost:3100
+[2024-06-06 17:04:35] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:04:35] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:04:35] error: FIN
+
+[2024-06-06 17:04:36] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:04:36] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:04:36] error: FIN
+
+[2024-06-06 17:04:37] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:04:37] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:04:37] error: FIN
+
+[2024-06-06 17:04:37] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:04:37] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:04:37] error: FIN
+
+[2024-06-06 17:04:38] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:04:38] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:04:38] error: FIN
+
+[2024-06-06 17:04:38] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:04:38] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:04:38] error: FIN
+
+[2024-06-06 17:04:39] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:04:39] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:04:39] error: FIN
+
+[2024-06-06 17:04:39] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:04:39] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:04:39] error: FIN
+
+[2024-06-06 17:04:40] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:04:40] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:04:40] error: FIN
+
+[2024-06-06 17:04:40] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:04:40] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:04:40] error: FIN
+
+[2024-06-06 17:04:41] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:04:41] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:04:41] error: FIN
+
+[2024-06-06 17:04:41] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:04:41] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:04:41] error: FIN
+
+[2024-06-06 17:04:41] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:04:41] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:04:41] error: FIN
+
+[2024-06-06 17:04:42] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:04:42] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:04:42] error: FIN
+
+[2024-06-06 17:04:42] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:04:42] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:04:42] error: FIN
+
+[2024-06-06 17:04:43] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:04:43] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:04:43] error: FIN
+
+[2024-06-06 17:04:45] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:04:45] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:04:45] error: FIN
+
+[2024-06-06 17:04:45] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:04:45] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:04:45] error: FIN
+
+[2024-06-06 17:04:47] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:04:47] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:04:47] error: FIN
+
+[2024-06-06 17:04:47] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:04:47] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:04:47] error: FIN
+
+[2024-06-06 17:04:48] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:04:48] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:04:48] error: FIN
+
+[2024-06-06 17:04:57] info: Empezando el servidor
+[2024-06-06 17:04:57] info: --Inicializamos la BD Mongoose
+[2024-06-06 17:04:57] info: --Base de datos Mongoose iniciada
+[2024-06-06 17:04:57] info: Inicializando otros componentes
+[2024-06-06 17:04:57] info: Servidor funcionando en localhost:3100
+[2024-06-06 17:04:59] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:04:59] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:04:59] error: FIN
+
+[2024-06-06 17:05:00] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:05:00] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:05:00] error: FIN
+
+[2024-06-06 17:05:00] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:05:00] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:05:00] error: FIN
+
+[2024-06-06 17:05:01] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:05:01] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:05:01] error: FIN
+
+[2024-06-06 17:05:23] info: Empezando el servidor
+[2024-06-06 17:05:23] info: --Inicializamos la BD Mongoose
+[2024-06-06 17:05:23] info: --Base de datos Mongoose iniciada
+[2024-06-06 17:05:23] info: Inicializando otros componentes
+[2024-06-06 17:05:23] info: Servidor funcionando en localhost:3100
+[2024-06-06 17:08:27] info: Empezando el servidor
+[2024-06-06 17:08:27] info: --Inicializamos la BD Mongoose
+[2024-06-06 17:08:27] info: --Base de datos Mongoose iniciada
+[2024-06-06 17:08:27] info: Inicializando otros componentes
+[2024-06-06 17:08:27] info: Servidor funcionando en localhost:3100
+[2024-06-06 17:15:30] info: Empezando el servidor
+[2024-06-06 17:15:30] info: --Inicializamos la BD Mongoose
+[2024-06-06 17:15:30] info: --Base de datos Mongoose iniciada
+[2024-06-06 17:15:30] info: Inicializando otros componentes
+[2024-06-06 17:15:30] info: Servidor funcionando en localhost:3100
+[2024-06-06 17:15:43] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:15:43] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:15:43] error: FIN
+
+[2024-06-11 15:55:55] info: Empezando el servidor
+[2024-06-11 15:55:55] info: --Inicializamos la BD Mongoose
+[2024-06-11 15:55:55] info: --Base de datos Mongoose iniciada
+[2024-06-11 15:55:55] info: Inicializando otros componentes
+[2024-06-11 15:55:55] info: Servidor funcionando en localhost:3100
+[2024-06-11 15:56:18] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-11 15:56:18] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-11 15:56:18] error: FIN
+
+[2024-06-11 16:00:23] info: Empezando el servidor
+[2024-06-11 16:00:23] info: --Inicializamos la BD Mongoose
+[2024-06-11 16:00:23] info: --Base de datos Mongoose iniciada
+[2024-06-11 16:00:23] info: Inicializando otros componentes
+[2024-06-11 16:00:23] info: Servidor funcionando en localhost:3100
+[2024-06-11 16:07:45] info: Empezando el servidor
+[2024-06-11 16:07:45] info: --Inicializamos la BD Mongoose
+[2024-06-11 16:07:45] info: --Base de datos Mongoose iniciada
+[2024-06-11 16:07:45] info: Inicializando otros componentes
+[2024-06-11 16:07:45] info: Servidor funcionando en localhost:3100
+[2024-06-11 16:07:53] info: Empezando el servidor
+[2024-06-11 16:07:53] info: --Inicializamos la BD Mongoose
+[2024-06-11 16:07:53] info: --Base de datos Mongoose iniciada
+[2024-06-11 16:07:53] info: Inicializando otros componentes
+[2024-06-11 16:07:53] info: Servidor funcionando en localhost:3100
+[2024-06-11 16:08:58] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: txt_tipo_1 dup key: { txt_tipo: "Perro" }
+[2024-06-11 16:08:58] error: --PARAMETROS: {"txt_tipo":"Perro","txt_grupo":"Mamífero"}
+[2024-06-11 16:08:58] error: FIN
+
+[2024-06-11 16:10:31] info: Empezando el servidor
+[2024-06-11 16:10:31] info: --Inicializamos la BD Mongoose
+[2024-06-11 16:10:31] info: --Base de datos Mongoose iniciada
+[2024-06-11 16:10:31] info: Inicializando otros componentes
+[2024-06-11 16:10:31] info: Servidor funcionando en localhost:3100
+[2024-06-11 16:10:33] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: txt_tipo_1 dup key: { txt_tipo: "Perro" }
+[2024-06-11 16:10:33] error: --PARAMETROS: {"txt_tipo":"Perro","txt_grupo":"Mamífero"}
+[2024-06-11 16:10:33] error: FIN
+
+[2024-06-11 16:25:46] info: Empezando el servidor
+[2024-06-11 16:25:46] info: --Inicializamos la BD Mongoose
+[2024-06-11 16:25:46] info: --Base de datos Mongoose iniciada
+[2024-06-11 16:25:46] info: Inicializando otros componentes
+[2024-06-11 16:25:46] info: Servidor funcionando en localhost:3100
+[2024-06-11 16:35:10] info: Empezando el servidor
+[2024-06-11 16:35:10] info: --Inicializamos la BD Mongoose
+[2024-06-11 16:35:10] info: --Base de datos Mongoose iniciada
+[2024-06-11 16:35:10] info: Inicializando otros componentes
+[2024-06-11 16:35:10] info: Servidor funcionando en localhost:3100
+[2024-06-11 16:41:57] info: Empezando el servidor
+[2024-06-11 16:41:57] info: --Inicializamos la BD Mongoose
+[2024-06-11 16:41:57] info: --Base de datos Mongoose iniciada
+[2024-06-11 16:41:57] info: Inicializando otros componentes
+[2024-06-11 16:41:57] info: Servidor funcionando en localhost:3100
+[2024-06-11 16:42:48] info: Empezando el servidor
+[2024-06-11 16:42:48] info: --Inicializamos la BD Mongoose
+[2024-06-11 16:42:48] info: --Base de datos Mongoose iniciada
+[2024-06-11 16:42:48] info: Inicializando otros componentes
+[2024-06-11 16:42:48] info: Servidor funcionando en localhost:3100
+[2024-06-11 16:43:24] info: Empezando el servidor
+[2024-06-11 16:43:24] info: --Inicializamos la BD Mongoose
+[2024-06-11 16:43:24] info: --Base de datos Mongoose iniciada
+[2024-06-11 16:43:24] info: Inicializando otros componentes
+[2024-06-11 16:43:24] info: Servidor funcionando en localhost:3100
+[2024-06-11 16:44:46] info: Empezando el servidor
+[2024-06-11 16:44:46] info: --Inicializamos la BD Mongoose
+[2024-06-11 16:44:46] info: --Base de datos Mongoose iniciada
+[2024-06-11 16:44:46] info: Inicializando otros componentes
+[2024-06-11 16:44:46] info: Servidor funcionando en localhost:3100
+[2024-06-11 16:44:50] error: Error al gestionar un tipo:
+El valor de la propiedad "txt_tipo" ya existe.
+[2024-06-11 16:44:50] error: --PARAMETROS: {"txt_tipo":"Perro","txt_grupo":"Mamífero"}
+[2024-06-11 16:44:50] error: FIN
+
+[2024-06-11 16:58:27] info: Empezando el servidor
+[2024-06-11 16:58:27] info: --Inicializamos la BD Mongoose
+[2024-06-11 16:58:27] info: --Base de datos Mongoose iniciada
+[2024-06-11 16:58:27] info: Inicializando otros componentes
+[2024-06-11 16:58:27] info: Servidor funcionando en localhost:3100
+[2024-06-11 16:59:03] error: Error al gestionar un tipo:
+TypeError: Cannot convert undefined or null to object
+[2024-06-11 16:59:03] error: --PARAMETROS: {"txt_tipo":"Perro","txt_grupo":"Mamífero"}
+[2024-06-11 16:59:03] error: FIN
+
+[2024-06-11 16:59:36] error: Error al gestionar un tipo:
+TypeError: Cannot convert undefined or null to object
+[2024-06-11 16:59:36] error: --PARAMETROS: {"txt_tipo":"Perro","txt_grupo":"Mamífero"}
+[2024-06-11 16:59:36] error: FIN
+
+[2024-06-11 17:00:19] info: Empezando el servidor
+[2024-06-11 17:00:19] info: --Inicializamos la BD Mongoose
+[2024-06-11 17:00:20] info: --Base de datos Mongoose iniciada
+[2024-06-11 17:00:20] info: Inicializando otros componentes
+[2024-06-11 17:00:20] info: Servidor funcionando en localhost:3100
+[2024-06-11 17:00:20] error: Error al gestionar un tipo:
+TypeError: Cannot convert undefined or null to object
+[2024-06-11 17:00:20] error: --PARAMETROS: {"txt_tipo":"Perro","txt_grupo":"Mamífero"}
+[2024-06-11 17:00:20] error: FIN
+
+[2024-06-11 17:00:48] info: Empezando el servidor
+[2024-06-11 17:00:48] info: --Inicializamos la BD Mongoose
+[2024-06-11 17:00:48] info: --Base de datos Mongoose iniciada
+[2024-06-11 17:00:48] info: Inicializando otros componentes
+[2024-06-11 17:00:48] info: Servidor funcionando en localhost:3100
+[2024-06-11 17:00:50] error: Error al gestionar un tipo:
+TypeError: Cannot convert undefined or null to object
+[2024-06-11 17:00:50] error: --PARAMETROS: {"txt_tipo":"Perro","txt_grupo":"Mamífero"}
+[2024-06-11 17:00:50] error: FIN
+
+[2024-06-11 17:01:31] info: Empezando el servidor
+[2024-06-11 17:01:31] info: --Inicializamos la BD Mongoose
+[2024-06-11 17:01:31] info: --Base de datos Mongoose iniciada
+[2024-06-11 17:01:31] info: Inicializando otros componentes
+[2024-06-11 17:01:31] info: Servidor funcionando en localhost:3100
+[2024-06-11 17:01:33] error: Error al gestionar un tipo:
+El tipo 'Perro' ya existe.
+[2024-06-11 17:01:33] error: --PARAMETROS: {"txt_tipo":"Perro","txt_grupo":"Mamífero"}
+[2024-06-11 17:01:33] error: FIN
+
+[2024-06-11 17:01:37] error: Error al gestionar un tipo:
+El tipo 'Perro' ya existe.
+[2024-06-11 17:01:37] error: --PARAMETROS: {"txt_tipo":"Perro","txt_grupo":"Mamífero"}
+[2024-06-11 17:01:37] error: FIN
+
+[2024-06-11 17:10:23] info: Empezando el servidor
+[2024-06-11 17:10:23] info: --Inicializamos la BD Mongoose
+[2024-06-11 17:10:23] info: --Base de datos Mongoose iniciada
+[2024-06-11 17:10:23] info: Inicializando otros componentes
+[2024-06-11 17:10:23] info: Servidor funcionando en localhost:3100
+[2024-06-11 17:12:06] info: Empezando el servidor
+[2024-06-11 17:12:06] info: --Inicializamos la BD Mongoose
+[2024-06-11 17:12:06] info: --Base de datos Mongoose iniciada
+[2024-06-11 17:12:06] info: Inicializando otros componentes
+[2024-06-11 17:12:06] info: Servidor funcionando en localhost:3100
+[2024-06-11 17:12:37] info: Empezando el servidor
+[2024-06-11 17:12:37] info: --Inicializamos la BD Mongoose
+[2024-06-11 17:12:37] info: --Base de datos Mongoose iniciada
+[2024-06-11 17:12:37] info: Inicializando otros componentes
+[2024-06-11 17:12:37] info: Servidor funcionando en localhost:3100
+[2024-06-11 17:12:57] info: Empezando el servidor
+[2024-06-11 17:12:57] info: --Inicializamos la BD Mongoose
+[2024-06-11 17:12:57] info: --Base de datos Mongoose iniciada
+[2024-06-11 17:12:57] info: Inicializando otros componentes
+[2024-06-11 17:12:57] info: Servidor funcionando en localhost:3100
+[2024-06-11 17:13:46] info: Empezando el servidor
+[2024-06-11 17:13:46] info: --Inicializamos la BD Mongoose
+[2024-06-11 17:13:46] info: --Base de datos Mongoose iniciada
+[2024-06-11 17:13:46] info: Inicializando otros componentes
+[2024-06-11 17:13:46] info: Servidor funcionando en localhost:3100
+[2024-06-11 17:13:48] info: Recibió SIGTERM
+[2024-06-11 17:13:48] info: Apagando el servidor
+[2024-06-11 17:13:48] info: Cerrando la conexión mongoose
+[2024-06-11 17:13:48] info: La base de datos mongoose ha sido cerrada.
+[2024-06-11 17:13:48] info: Terminando el servidor express
+[2024-06-11 17:13:53] info: Terminando el proceso
+[2024-06-11 17:15:06] info: Empezando el servidor
+[2024-06-11 17:15:06] info: --Inicializamos la BD Mongoose
+[2024-06-11 17:15:06] info: --Base de datos Mongoose iniciada
+[2024-06-11 17:15:06] info: Inicializando otros componentes
+[2024-06-11 17:15:06] info: Servidor funcionando en localhost:3100
+[2024-06-11 17:15:08] info: Recibió SIGTERM
+[2024-06-11 17:15:08] info: Apagando el servidor
+[2024-06-11 17:15:08] info: Cerrando la conexión mongoose
+[2024-06-11 17:15:08] info: La base de datos mongoose ha sido cerrada.
+[2024-06-11 17:15:08] info: Terminando el servidor express
+[2024-06-11 17:15:13] info: Terminando el proceso
+[2024-06-11 17:15:36] info: Empezando el servidor
+[2024-06-11 17:15:36] info: --Inicializamos la BD Mongoose
+[2024-06-11 17:15:36] info: --Base de datos Mongoose iniciada
+[2024-06-11 17:15:36] info: Inicializando otros componentes
+[2024-06-11 17:15:36] info: Servidor funcionando en localhost:3100
+[2024-06-11 17:15:40] info: Recibió SIGTERM
+[2024-06-11 17:16:03] info: Empezando el servidor
+[2024-06-11 17:16:03] info: --Inicializamos la BD Mongoose
+[2024-06-11 17:16:03] info: --Base de datos Mongoose iniciada
+[2024-06-11 17:16:03] info: Inicializando otros componentes
+[2024-06-11 17:16:03] info: Servidor funcionando en localhost:3100
+[2024-06-11 17:20:05] info: Empezando el servidor
+[2024-06-11 17:20:05] info: --Inicializamos la BD Mongoose
+[2024-06-11 17:20:05] info: --Base de datos Mongoose iniciada
+[2024-06-11 17:20:05] info: Inicializando otros componentes
+[2024-06-11 17:20:05] info: Servidor funcionando en localhost:3100
+[2024-06-11 17:20:08] info: Recibió SIGTERM
+[2024-06-11 17:20:08] info: Apagando el servidor
+[2024-06-11 17:20:08] info: Terminando el servidor express
+[2024-06-11 17:20:08] error: Error al gestionar un tipo:
+El tipo 'Perro' ya existe.
+[2024-06-11 17:20:08] error: --PARAMETROS: {"txt_tipo":"Perro","txt_grupo":"Mamífero"}
+[2024-06-11 17:20:08] error: FIN
+
+[2024-06-11 17:20:13] info: Terminando el proceso
+[2024-06-11 17:20:54] info: Empezando el servidor
+[2024-06-11 17:20:54] info: --Inicializamos la BD Mongoose
+[2024-06-11 17:20:54] info: --Base de datos Mongoose iniciada
+[2024-06-11 17:20:54] info: Inicializando otros componentes
+[2024-06-11 17:20:55] info: Servidor funcionando en localhost:3100
+[2024-06-11 17:20:56] error: Error al gestionar un tipo:
+El tipo 'Perro' ya existe.
+[2024-06-11 17:20:56] error: --PARAMETROS: {"txt_tipo":"Perro","txt_grupo":"Mamífero"}
+[2024-06-11 17:20:56] error: FIN
+
+[2024-06-11 17:21:09] info: Empezando el servidor
+[2024-06-11 17:21:09] info: --Inicializamos la BD Mongoose
+[2024-06-11 17:21:09] info: --Base de datos Mongoose iniciada
+[2024-06-11 17:21:09] info: Inicializando otros componentes
+[2024-06-11 17:21:09] info: Servidor funcionando en localhost:3100
+[2024-06-11 17:21:11] error: Error al gestionar un tipo:
+El tipo 'Perro' ya existe.
+[2024-06-11 17:21:11] error: --PARAMETROS: {"txt_tipo":"Perro","txt_grupo":"Mamífero"}
+[2024-06-11 17:21:11] error: FIN
+
+[2024-06-11 17:23:25] info: Empezando el servidor
+[2024-06-11 17:23:25] info: --Inicializamos la BD Mongoose
+[2024-06-11 17:23:25] info: --Base de datos Mongoose iniciada
+[2024-06-11 17:23:25] info: Inicializando otros componentes
+[2024-06-11 17:23:25] info: Servidor funcionando en localhost:3100
+[2024-06-11 17:23:41] info: Empezando el servidor
+[2024-06-11 17:23:41] info: --Inicializamos la BD Mongoose
+[2024-06-11 17:23:41] info: --Base de datos Mongoose iniciada
+[2024-06-11 17:23:41] info: Inicializando otros componentes
+[2024-06-11 17:23:41] info: Servidor funcionando en localhost:3100
+[2024-06-11 17:23:51] error: Error al listar los tipos:
+TypeError: tipoParametro.find is not a function
+[2024-06-11 17:23:51] error: FIN
+
+[2024-06-11 17:25:03] info: Empezando el servidor
+[2024-06-11 17:25:03] info: --Inicializamos la BD Mongoose
+[2024-06-11 17:25:03] info: --Base de datos Mongoose iniciada
+[2024-06-11 17:25:03] info: Inicializando otros componentes
+[2024-06-11 17:25:03] info: Servidor funcionando en localhost:3100
+[2024-06-11 17:25:04] error: Error al listar los tipos:
+TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'MongoClient'
+    
+     property 's' -> object with constructor 'Object'
+    
+     property 'sessionPool' -> object with constructor 'ServerSessionPool'
+    --- property 'client' closes the circle
+[2024-06-11 17:25:04] error: FIN
+
+[2024-06-11 17:26:32] info: Recibió SIGINT
+[2024-06-11 17:26:39] info: Empezando el servidor
+[2024-06-11 17:26:39] info: --Inicializamos la BD Mongoose
+[2024-06-11 17:26:39] info: --Base de datos Mongoose iniciada
+[2024-06-11 17:26:39] info: Inicializando otros componentes
+[2024-06-11 17:26:39] info: Servidor funcionando en localhost:3100
+[2024-06-11 17:27:09] info: Empezando el servidor
+[2024-06-11 17:27:09] info: --Inicializamos la BD Mongoose
+[2024-06-11 17:27:09] info: --Base de datos Mongoose iniciada
+[2024-06-11 17:27:09] info: Inicializando otros componentes
+[2024-06-11 17:27:09] info: Servidor funcionando en localhost:3100
+[2024-06-11 17:27:10] error: Error al listar los tipos:
+TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'MongoClient'
+    
+     property 's' -> object with constructor 'Object'
+    
+     property 'sessionPool' -> object with constructor 'ServerSessionPool'
+    --- property 'client' closes the circle
+[2024-06-11 17:27:10] error: FIN
+
+[2024-06-11 17:27:55] info: Empezando el servidor
+[2024-06-11 17:27:55] info: --Inicializamos la BD Mongoose
+[2024-06-11 17:27:55] info: --Base de datos Mongoose iniciada
+[2024-06-11 17:27:55] info: Inicializando otros componentes
+[2024-06-11 17:27:55] info: Servidor funcionando en localhost:3100
+[2024-06-11 17:28:08] info: Empezando el servidor
+[2024-06-11 17:28:08] info: --Inicializamos la BD Mongoose
+[2024-06-11 17:28:08] info: --Base de datos Mongoose iniciada
+[2024-06-11 17:28:08] info: Inicializando otros componentes
+[2024-06-11 17:28:08] info: Servidor funcionando en localhost:3100
+[2024-06-12 08:37:38] info: Recibió SIGINT
+[2024-06-12 12:05:57] info: Empezando el servidor
+[2024-06-12 12:05:57] info: --Inicializamos la BD Mongoose
+[2024-06-12 12:05:57] info: --Base de datos Mongoose iniciada
+[2024-06-12 12:05:57] info: Inicializando otros componentes
+[2024-06-12 12:05:57] info: Servidor funcionando en localhost:3100
+[2024-06-12 15:07:37] info: Recibió SIGINT
+[2024-06-12 16:05:10] info: Empezando el servidor
+[2024-06-12 16:05:10] info: --Inicializamos la BD Mongoose
+[2024-06-12 16:05:10] info: --Base de datos Mongoose iniciada
+[2024-06-12 16:05:10] info: Inicializando otros componentes
+[2024-06-12 16:05:10] info: Servidor funcionando en localhost:3100
+[2024-06-12 16:08:30] info: Empezando el servidor
+[2024-06-12 16:08:30] info: --Inicializamos la BD Mongoose
+[2024-06-12 16:08:30] info: --Base de datos Mongoose iniciada
+[2024-06-12 16:08:30] info: Inicializando otros componentes
+[2024-06-12 16:08:30] info: Servidor funcionando en localhost:3100
+[2024-06-12 16:14:36] info: Empezando el servidor
+[2024-06-12 16:14:36] info: --Inicializamos la BD Mongoose
+[2024-06-12 16:14:36] info: --Base de datos Mongoose iniciada
+[2024-06-12 16:14:36] info: Inicializando otros componentes
+[2024-06-12 16:14:36] info: Servidor funcionando en localhost:3100
+[2024-06-12 16:15:38] info: Empezando el servidor
+[2024-06-12 16:15:38] info: --Inicializamos la BD Mongoose
+[2024-06-12 16:15:38] info: --Base de datos Mongoose iniciada
+[2024-06-12 16:15:38] info: Inicializando otros componentes
+[2024-06-12 16:15:38] info: Servidor funcionando en localhost:3100
+[2024-06-12 16:18:33] info: Empezando el servidor
+[2024-06-12 16:18:33] info: --Inicializamos la BD Mongoose
+[2024-06-12 16:18:33] info: --Base de datos Mongoose iniciada
+[2024-06-12 16:18:33] info: Inicializando otros componentes
+[2024-06-12 16:18:33] info: Servidor funcionando en localhost:3100
+[2024-06-12 16:18:34] error: Error al obtener un tipo:
+TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'MongoClient'
+    
+     property 's' -> object with constructor 'Object'
+    
+     property 'sessionPool' -> object with constructor 'ServerSessionPool'
+    --- property 'client' closes the circle
+[2024-06-12 16:18:34] error: FIN
+
+[2024-06-12 16:18:37] error: Error al obtener un tipo:
+TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'MongoClient'
+    
+     property 's' -> object with constructor 'Object'
+    
+     property 'sessionPool' -> object with constructor 'ServerSessionPool'
+    --- property 'client' closes the circle
+[2024-06-12 16:18:37] error: FIN
+
+[2024-06-12 16:18:59] info: Empezando el servidor
+[2024-06-12 16:18:59] info: --Inicializamos la BD Mongoose
+[2024-06-12 16:18:59] info: --Base de datos Mongoose iniciada
+[2024-06-12 16:18:59] info: Inicializando otros componentes
+[2024-06-12 16:18:59] info: Servidor funcionando en localhost:3100
+[2024-06-12 16:19:00] error: Error al obtener un tipo:
+CastError: Cast to ObjectId failed for value "" (type string) at path "_id" for model "Tipo"
+[2024-06-12 16:19:00] error: FIN
+
+[2024-06-12 16:19:45] info: Empezando el servidor
+[2024-06-12 16:19:45] info: --Inicializamos la BD Mongoose
+[2024-06-12 16:19:45] info: --Base de datos Mongoose iniciada
+[2024-06-12 16:19:45] info: Inicializando otros componentes
+[2024-06-12 16:19:45] info: Servidor funcionando en localhost:3100
+[2024-06-12 16:19:46] error: Error al obtener un tipo:
+La operación no se pudo completar porque los parámetros no están completos.
+[2024-06-12 16:19:46] error: FIN
+
+[2024-06-12 16:19:58] error: Error al obtener un tipo:
+CastError: Cast to ObjectId failed for value "EEE" (type string) at path "_id" for model "Tipo"
+[2024-06-12 16:19:58] error: --PARAMETROS: {"id_tipo":"EEE"}
+[2024-06-12 16:19:58] error: FIN
+
+[2024-06-12 16:21:09] error: Error al obtener un tipo:
+El tipo con id 6668ba04cc05034beaf10783 no existe.
+[2024-06-12 16:21:09] error: --PARAMETROS: {"id_tipo":"6668ba04cc05034beaf10783"}
+[2024-06-12 16:21:09] error: FIN
+
+[2024-06-12 16:21:18] error: Error al obtener un tipo:
+CastError: Cast to ObjectId failed for value "e" (type string) at path "_id" for model "Tipo"
+[2024-06-12 16:21:18] error: --PARAMETROS: {"id_tipo":"e"}
+[2024-06-12 16:21:18] error: FIN
+
+[2024-06-12 16:22:59] info: Empezando el servidor
+[2024-06-12 16:22:59] info: --Inicializamos la BD Mongoose
+[2024-06-12 16:22:59] info: --Base de datos Mongoose iniciada
+[2024-06-12 16:22:59] info: Inicializando otros componentes
+[2024-06-12 16:22:59] info: Servidor funcionando en localhost:3100
+[2024-06-12 16:23:30] info: Empezando el servidor
+[2024-06-12 16:23:30] info: --Inicializamos la BD Mongoose
+[2024-06-12 16:23:30] info: --Base de datos Mongoose iniciada
+[2024-06-12 16:23:30] info: Inicializando otros componentes
+[2024-06-12 16:23:30] info: Servidor funcionando en localhost:3100
+[2024-06-12 16:23:31] error: Error al obtener un tipo:
+El id no presenta un formato adecuado.
+[2024-06-12 16:23:31] error: --PARAMETROS: {"id_tipo":"e"}
+[2024-06-12 16:23:31] error: FIN
+
+[2024-06-12 16:23:32] error: Error al obtener un tipo:
+El id no presenta un formato adecuado.
+[2024-06-12 16:23:32] error: --PARAMETROS: {"id_tipo":"e"}
+[2024-06-12 16:23:32] error: FIN
+
+[2024-06-12 16:23:46] error: Error al obtener un tipo:
+El id no presenta un formato adecuado.
+[2024-06-12 16:23:46] error: --PARAMETROS: {"id_tipo":"6668bcb843e09e6cab46352"}
+[2024-06-12 16:23:46] error: FIN
+
+[2024-06-12 16:23:50] error: Error al obtener un tipo:
+El id no presenta un formato adecuado.
+[2024-06-12 16:23:50] error: --PARAMETROS: {"id_tipo":"6668bcb843e09e6cab463u52"}
+[2024-06-12 16:23:50] error: FIN
+
+[2024-06-12 16:24:25] error: Error al obtener un tipo:
+El tipo con id 6668bcb843e09e6cab463e52 no existe.
+[2024-06-12 16:24:25] error: --PARAMETROS: {"id_tipo":"6668bcb843e09e6cab463e52"}
+[2024-06-12 16:24:25] error: FIN
+
+[2024-06-12 16:24:31] error: Error al obtener un tipo:
+El id no presenta un formato adecuado.
+[2024-06-12 16:24:31] error: --PARAMETROS: {"id_tipo":"6668bcb843e09e6cab463u52"}
+[2024-06-12 16:24:31] error: FIN
+
+[2024-06-12 16:36:58] info: Empezando el servidor
+[2024-06-12 16:36:58] info: --Inicializamos la BD Mongoose
+[2024-06-12 16:36:58] info: --Base de datos Mongoose iniciada
+[2024-06-12 16:36:58] info: Inicializando otros componentes
+[2024-06-12 16:36:58] info: Servidor funcionando en localhost:3100
+[2024-06-12 16:37:12] info: Empezando el servidor
+[2024-06-12 16:37:12] info: --Inicializamos la BD Mongoose
+[2024-06-12 16:37:12] info: --Base de datos Mongoose iniciada
+[2024-06-12 16:37:12] info: Inicializando otros componentes
+[2024-06-12 16:37:12] info: Servidor funcionando en localhost:3100
+[2024-06-12 16:51:35] info: Empezando el servidor
+[2024-06-12 16:51:35] info: --Inicializamos la BD Mongoose
+[2024-06-12 16:51:36] info: --Base de datos Mongoose iniciada
+[2024-06-12 16:51:36] info: Inicializando otros componentes
+[2024-06-12 16:51:36] info: Servidor funcionando en localhost:3100
+[2024-06-12 16:53:42] info: Empezando el servidor
+[2024-06-12 16:53:42] info: --Inicializamos la BD Mongoose
+[2024-06-12 16:53:42] info: --Base de datos Mongoose iniciada
+[2024-06-12 16:53:42] info: Inicializando otros componentes
+[2024-06-12 16:53:42] info: Servidor funcionando en localhost:3100
+[2024-06-12 16:54:00] info: Empezando el servidor
+[2024-06-12 16:54:00] info: --Inicializamos la BD Mongoose
+[2024-06-12 16:54:00] info: --Base de datos Mongoose iniciada
+[2024-06-12 16:54:00] info: Inicializando otros componentes
+[2024-06-12 16:54:00] info: Servidor funcionando en localhost:3100
+[2024-06-12 16:54:13] info: Empezando el servidor
+[2024-06-12 16:54:13] info: --Inicializamos la BD Mongoose
+[2024-06-12 16:54:13] info: --Base de datos Mongoose iniciada
+[2024-06-12 16:54:13] info: Inicializando otros componentes
+[2024-06-12 16:54:13] info: Servidor funcionando en localhost:3100
+[2024-06-12 16:54:24] info: Empezando el servidor
+[2024-06-12 16:54:24] info: --Inicializamos la BD Mongoose
+[2024-06-12 16:54:24] info: --Base de datos Mongoose iniciada
+[2024-06-12 16:54:24] info: Inicializando otros componentes
+[2024-06-12 16:54:24] info: Servidor funcionando en localhost:3100
+[2024-06-12 16:56:00] info: Empezando el servidor
+[2024-06-12 16:56:00] info: --Inicializamos la BD Mongoose
+[2024-06-12 16:56:00] info: --Base de datos Mongoose iniciada
+[2024-06-12 16:56:00] info: Inicializando otros componentes
+[2024-06-12 16:56:00] info: Servidor funcionando en localhost:3100
+[2024-06-12 16:57:18] info: Empezando el servidor
+[2024-06-12 16:57:18] info: --Inicializamos la BD Mongoose
+[2024-06-12 16:57:18] info: --Base de datos Mongoose iniciada
+[2024-06-12 16:57:18] info: Inicializando otros componentes
+[2024-06-12 16:57:18] info: Servidor funcionando en localhost:3100
+[2024-06-12 17:12:31] info: Empezando el servidor
+[2024-06-12 17:12:31] info: --Inicializamos la BD Mongoose
+[2024-06-12 17:12:31] info: --Base de datos Mongoose iniciada
+[2024-06-12 17:12:31] info: Inicializando otros componentes
+[2024-06-12 17:12:31] info: Servidor funcionando en localhost:3100
+[2024-06-12 17:12:47] info: Empezando el servidor
+[2024-06-12 17:12:47] info: --Inicializamos la BD Mongoose
+[2024-06-12 17:12:47] info: --Base de datos Mongoose iniciada
+[2024-06-12 17:12:47] info: Inicializando otros componentes
+[2024-06-12 17:12:47] info: Servidor funcionando en localhost:3100
+[2024-06-12 17:13:23] info: Empezando el servidor
+[2024-06-12 17:13:23] info: --Inicializamos la BD Mongoose
+[2024-06-12 17:13:23] info: --Base de datos Mongoose iniciada
+[2024-06-12 17:13:23] info: Inicializando otros componentes
+[2024-06-12 17:13:23] info: Servidor funcionando en localhost:3100
+[2024-06-14 08:40:29] info: Recibió SIGINT
+[2024-06-18 09:05:35] info: Empezando el servidor
+[2024-06-18 09:05:35] info: --Inicializamos la BD Mongoose
+[2024-06-18 09:05:35] info: --Base de datos Mongoose iniciada
+[2024-06-18 09:05:35] info: Inicializando otros componentes
+[2024-06-18 09:05:35] info: Servidor funcionando en localhost:3100
+[2024-06-18 09:06:23] info: Empezando el servidor
+[2024-06-18 09:06:23] info: --Inicializamos la BD Mongoose
+[2024-06-18 09:06:23] info: --Base de datos Mongoose iniciada
+[2024-06-18 09:06:23] info: Inicializando otros componentes
+[2024-06-18 09:06:23] info: Servidor funcionando en localhost:3100
+[2024-06-18 09:06:40] info: Empezando el servidor
+[2024-06-18 09:06:40] info: --Inicializamos la BD Mongoose
+[2024-06-18 09:06:40] info: --Base de datos Mongoose iniciada
+[2024-06-18 09:06:40] info: Inicializando otros componentes
+[2024-06-18 09:06:40] info: Servidor funcionando en localhost:3100
+[2024-06-18 09:10:36] info: Empezando el servidor
+[2024-06-18 09:10:36] info: --Inicializamos la BD Mongoose
+[2024-06-18 09:10:36] info: --Base de datos Mongoose iniciada
+[2024-06-18 09:10:36] info: Inicializando otros componentes
+[2024-06-18 09:10:36] info: Servidor funcionando en localhost:3100
+[2024-06-18 09:15:16] error: Error al actualizar un tipo:
+El id no presenta un formato adecuado.
+[2024-06-18 09:15:16] error: --PARAMETROS: {"nid_tipo":"66609a46e0ba058875676c4","txt_tipo":"Humanoxxx","txt_grupo":"Mamífero"}
+[2024-06-18 09:15:16] error: FIN
+
+[2024-06-18 09:16:12] info: Empezando el servidor
+[2024-06-18 09:16:12] info: --Inicializamos la BD Mongoose
+[2024-06-18 09:16:12] info: --Base de datos Mongoose iniciada
+[2024-06-18 09:16:12] info: Inicializando otros componentes
+[2024-06-18 09:16:12] info: Servidor funcionando en localhost:3100
+[2024-06-18 09:33:21] info: Empezando el servidor
+[2024-06-18 09:33:21] info: --Inicializamos la BD Mongoose
+[2024-06-18 09:33:21] info: --Base de datos Mongoose iniciada
+[2024-06-18 09:33:21] info: Inicializando otros componentes
+[2024-06-18 09:33:21] info: Servidor funcionando en localhost:3100
+[2024-06-18 09:33:55] info: Empezando el servidor
+[2024-06-18 09:33:55] info: --Inicializamos la BD Mongoose
+[2024-06-18 09:33:55] info: --Base de datos Mongoose iniciada
+[2024-06-18 09:33:55] info: Inicializando otros componentes
+[2024-06-18 09:33:55] info: Servidor funcionando en localhost:3100
+[2024-06-18 09:36:07] info: Empezando el servidor
+[2024-06-18 09:36:07] info: --Inicializamos la BD Mongoose
+[2024-06-18 09:36:07] info: --Base de datos Mongoose iniciada
+[2024-06-18 09:36:07] info: Inicializando otros componentes
+[2024-06-18 09:36:07] info: Servidor funcionando en localhost:3100
+[2024-06-18 09:36:34] error: Error al actualizar un tipo:
+No se ha encontrado un tipo con id "66609a46e0ba058875676e49"
+[2024-06-18 09:36:34] error: --PARAMETROS: {"nid_tipo":"66609a46e0ba058875676e49","txt_tipo":"Humano","txt_grupo":"Mamífero"}
+[2024-06-18 09:36:34] error: FIN
+
+[2024-06-18 09:36:41] error: Error al actualizar un tipo:
+No se ha encontrado un tipo con id "66609a46e0ba058875676e49"
+[2024-06-18 09:36:41] error: --PARAMETROS: {"nid_tipo":"66609a46e0ba058875676e49","txt_tipo":"Humano","txt_grupo":"Mamífero"}
+[2024-06-18 09:36:41] error: FIN
+
+[2024-06-18 09:38:29] info: Empezando el servidor
+[2024-06-18 09:38:29] info: --Inicializamos la BD Mongoose
+[2024-06-18 09:38:29] info: --Base de datos Mongoose iniciada
+[2024-06-18 09:38:29] info: Inicializando otros componentes
+[2024-06-18 09:38:29] info: Servidor funcionando en localhost:3100
+[2024-06-18 09:38:30] error: Error al actualizar un tipo:
+No se ha encontrado un tipo con id "66609a46e0ba058875676e49"
+[2024-06-18 09:38:30] error: --PARAMETROS: {"nid_tipo":"66609a46e0ba058875676e49","txt_tipo":"Humano","txt_grupo":"Mamífero"}
+[2024-06-18 09:38:30] error: FIN
+
+[2024-06-18 09:38:31] error: Error al actualizar un tipo:
+No se ha encontrado un tipo con id "66609a46e0ba058875676e49"
+[2024-06-18 09:38:31] error: --PARAMETROS: {"nid_tipo":"66609a46e0ba058875676e49","txt_tipo":"Humano","txt_grupo":"Mamífero"}
+[2024-06-18 09:38:31] error: FIN
+
+[2024-06-18 09:38:44] error: Error al actualizar un tipo:
+No se ha encontrado un tipo con id "66609a46e0ba058875676e49"
+[2024-06-18 09:38:44] error: --PARAMETROS: {"nid_tipo":"66609a46e0ba058875676e49","txt_tipo":"Humano","txt_grupo":"Mamífero"}
+[2024-06-18 09:38:44] error: FIN
+
+[2024-06-18 09:38:49] error: Error al actualizar un tipo:
+TypeError: res.status is not a function
+[2024-06-18 09:38:49] error: --PARAMETROS: {"nid_tipo":"66609a46e0ba058875676c49","txt_tipo":"Humano","txt_grupo":"Mamífero"}
+[2024-06-18 09:38:49] error: FIN
+
+[2024-06-18 09:39:04] info: Empezando el servidor
+[2024-06-18 09:39:04] info: --Inicializamos la BD Mongoose
+[2024-06-18 09:39:04] info: --Base de datos Mongoose iniciada
+[2024-06-18 09:39:04] info: Inicializando otros componentes
+[2024-06-18 09:39:04] info: Servidor funcionando en localhost:3100
+[2024-06-18 09:41:09] error: Error al actualizar un tipo:
+No se ha encontrado un tipo con id "66609a46e0ba058875676c99"
+[2024-06-18 09:41:09] error: --PARAMETROS: {"nid_tipo":"66609a46e0ba058875676c99","txt_tipo":"Humanox","txt_grupo":"Mamífero"}
+[2024-06-18 09:41:09] error: FIN
+
+[2024-06-18 09:41:16] error: Error al actualizar un tipo:
+No se ha encontrado un tipo con id "66609a46e0ba058875676c99"
+[2024-06-18 09:41:16] error: --PARAMETROS: {"nid_tipo":"66609a46e0ba058875676c99","txt_tipo":"Humanox","txt_grupo":"Mamífero"}
+[2024-06-18 09:41:16] error: FIN
+
+[2024-06-18 10:05:29] info: Empezando el servidor
+[2024-06-18 10:05:29] info: --Inicializamos la BD Mongoose
+[2024-06-18 10:05:29] info: --Base de datos Mongoose iniciada
+[2024-06-18 10:05:29] info: Inicializando otros componentes
+[2024-06-18 10:05:29] info: Servidor funcionando en localhost:3100
+[2024-06-18 10:07:02] info: Empezando el servidor
+[2024-06-18 10:07:02] info: --Inicializamos la BD Mongoose
+[2024-06-18 10:07:02] info: --Base de datos Mongoose iniciada
+[2024-06-18 10:07:02] info: Inicializando otros componentes
+[2024-06-18 10:07:02] info: Servidor funcionando en localhost:3100
+[2024-06-18 10:07:39] info: Empezando el servidor
+[2024-06-18 10:07:39] info: --Inicializamos la BD Mongoose
+[2024-06-18 10:07:39] info: --Base de datos Mongoose iniciada
+[2024-06-18 10:07:39] info: Inicializando otros componentes
+[2024-06-18 10:07:39] info: Servidor funcionando en localhost:3100
+[2024-06-18 10:07:58] error: Error al eliminar un tipo:
+No se ha encontrado un tipo con id "6668bcb843e09e6cab463452".
+[2024-06-18 10:07:58] error: --PARAMETROS: {"nid_tipo":"6668bcb843e09e6cab463452"}
+[2024-06-18 10:07:58] error: FIN
+
+[2024-06-18 10:09:28] info: Empezando el servidor
+[2024-06-18 10:09:28] info: --Inicializamos la BD Mongoose
+[2024-06-18 10:09:28] info: --Base de datos Mongoose iniciada
+[2024-06-18 10:09:28] info: Inicializando otros componentes
+[2024-06-18 10:09:28] info: Servidor funcionando en localhost:3100
+[2024-06-18 10:12:59] error: Error al eliminar un tipo:
+No se ha encontrado un tipo con id "6671a369d63b1d8c345c02b5".
+[2024-06-18 10:12:59] error: --PARAMETROS: {"nid_tipo":"6671a369d63b1d8c345c02b5"}
+[2024-06-18 10:12:59] error: FIN
+
+[2024-06-18 10:13:02] error: Error al eliminar un tipo:
+No se ha encontrado un tipo con id "6671a369d63b1d8c345c02b5".
+[2024-06-18 10:13:02] error: --PARAMETROS: {"nid_tipo":"6671a369d63b1d8c345c02b5"}
+[2024-06-18 10:13:02] error: FIN
+
+[2024-06-18 10:13:03] error: Error al eliminar un tipo:
+No se ha encontrado un tipo con id "6671a369d63b1d8c345c02b5".
+[2024-06-18 10:13:03] error: --PARAMETROS: {"nid_tipo":"6671a369d63b1d8c345c02b5"}
+[2024-06-18 10:13:03] error: FIN
+
+[2024-06-18 10:13:03] error: Error al eliminar un tipo:
+No se ha encontrado un tipo con id "6671a369d63b1d8c345c02b5".
+[2024-06-18 10:13:03] error: --PARAMETROS: {"nid_tipo":"6671a369d63b1d8c345c02b5"}
+[2024-06-18 10:13:03] error: FIN
+
+[2024-06-18 10:53:41] info: Empezando el servidor
+[2024-06-18 10:53:41] info: --Inicializamos la BD Mongoose
+[2024-06-18 10:53:41] info: --Base de datos Mongoose iniciada
+[2024-06-18 10:53:41] info: Inicializando otros componentes
+[2024-06-18 10:53:41] info: Servidor funcionando en localhost:3100
+[2024-06-18 10:56:01] info: Empezando el servidor
+[2024-06-18 10:56:01] info: --Inicializamos la BD Mongoose
+[2024-06-18 10:56:01] info: --Base de datos Mongoose iniciada
+[2024-06-18 10:56:01] info: Inicializando otros componentes
+[2024-06-18 10:56:01] info: Servidor funcionando en localhost:3100
+[2024-06-18 10:57:51] info: Empezando el servidor
+[2024-06-18 10:57:51] info: --Inicializamos la BD Mongoose
+[2024-06-18 10:57:51] info: --Base de datos Mongoose iniciada
+[2024-06-18 10:57:51] info: Inicializando otros componentes
+[2024-06-18 10:57:51] info: Servidor funcionando en localhost:3100
+[2024-06-18 10:58:06] info: Empezando el servidor
+[2024-06-18 10:58:06] info: --Inicializamos la BD Mongoose
+[2024-06-18 10:58:06] info: --Base de datos Mongoose iniciada
+[2024-06-18 10:58:06] info: Inicializando otros componentes
+[2024-06-18 10:58:06] info: Servidor funcionando en localhost:3100
+[2024-06-18 10:59:45] info: Empezando el servidor
+[2024-06-18 10:59:45] info: --Inicializamos la BD Mongoose
+[2024-06-18 10:59:46] info: --Base de datos Mongoose iniciada
+[2024-06-18 10:59:46] info: Inicializando otros componentes
+[2024-06-18 10:59:46] info: Servidor funcionando en localhost:3100
+[2024-06-18 11:01:15] info: Empezando el servidor
+[2024-06-18 11:01:15] info: --Inicializamos la BD Mongoose
+[2024-06-18 11:01:15] info: --Base de datos Mongoose iniciada
+[2024-06-18 11:01:15] info: Inicializando otros componentes
+[2024-06-18 11:01:15] info: Servidor funcionando en localhost:3100
+[2024-06-18 11:02:40] info: Recibió SIGINT
+[2024-06-18 11:02:48] info: Empezando el servidor
+[2024-06-18 11:02:48] info: --Inicializamos la BD Mongoose
+[2024-06-18 11:02:48] info: --Base de datos Mongoose iniciada
+[2024-06-18 11:02:48] info: Inicializando otros componentes
+[2024-06-18 11:02:48] info: Servidor funcionando en localhost:3100
+[2024-06-18 11:03:16] info: Empezando el servidor
+[2024-06-18 11:03:16] info: --Inicializamos la BD Mongoose
+[2024-06-18 11:03:16] info: --Base de datos Mongoose iniciada
+[2024-06-18 11:03:16] info: Inicializando otros componentes
+[2024-06-18 11:03:16] info: Servidor funcionando en localhost:3100
+[2024-06-18 11:03:44] info: Empezando el servidor
+[2024-06-18 11:03:44] info: --Inicializamos la BD Mongoose
+[2024-06-18 11:03:45] info: --Base de datos Mongoose iniciada
+[2024-06-18 11:03:45] info: Inicializando otros componentes
+[2024-06-18 11:03:45] info: Servidor funcionando en localhost:3100
+[2024-06-18 11:05:29] info: Empezando el servidor
+[2024-06-18 11:05:29] info: --Inicializamos la BD Mongoose
+[2024-06-18 11:05:29] info: --Base de datos Mongoose iniciada
+[2024-06-18 11:05:29] info: Inicializando otros componentes
+[2024-06-18 11:05:29] info: Servidor funcionando en localhost:3100
+[2024-06-18 11:05:38] info: Empezando el servidor
+[2024-06-18 11:05:38] info: --Inicializamos la BD Mongoose
+[2024-06-18 11:05:38] info: --Base de datos Mongoose iniciada
+[2024-06-18 11:05:38] info: Inicializando otros componentes
+[2024-06-18 11:05:38] info: Servidor funcionando en localhost:3100
+[2024-06-18 11:06:03] info: Empezando el servidor
+[2024-06-18 11:06:03] info: --Inicializamos la BD Mongoose
+[2024-06-18 11:06:03] info: --Base de datos Mongoose iniciada
+[2024-06-18 11:06:03] info: Inicializando otros componentes
+[2024-06-18 11:06:03] info: Servidor funcionando en localhost:3100
+[2024-06-18 11:06:39] info: Empezando el servidor
+[2024-06-18 11:06:39] info: --Inicializamos la BD Mongoose
+[2024-06-18 11:06:39] info: --Base de datos Mongoose iniciada
+[2024-06-18 11:06:39] info: Inicializando otros componentes
+[2024-06-18 11:06:39] info: Servidor funcionando en localhost:3100
+[2024-06-18 11:07:17] info: Empezando el servidor
+[2024-06-18 11:07:17] info: --Inicializamos la BD Mongoose
+[2024-06-18 11:07:17] info: --Base de datos Mongoose iniciada
+[2024-06-18 11:07:17] info: Inicializando otros componentes
+[2024-06-18 11:07:17] info: Servidor funcionando en localhost:3100
+[2024-06-18 11:07:39] info: Empezando el servidor
+[2024-06-18 11:07:39] info: --Inicializamos la BD Mongoose
+[2024-06-18 11:07:39] info: --Base de datos Mongoose iniciada
+[2024-06-18 11:07:39] info: Inicializando otros componentes
+[2024-06-18 11:07:39] info: Servidor funcionando en localhost:3100
+[2024-06-18 11:08:02] info: Empezando el servidor
+[2024-06-18 11:08:02] info: --Inicializamos la BD Mongoose
+[2024-06-18 11:08:02] info: --Base de datos Mongoose iniciada
+[2024-06-18 11:08:02] info: Inicializando otros componentes
+[2024-06-18 11:08:02] info: Servidor funcionando en localhost:3100
+[2024-06-18 11:10:51] info: Empezando el servidor
+[2024-06-18 11:10:51] info: --Inicializamos la BD Mongoose
+[2024-06-18 11:10:51] info: --Base de datos Mongoose iniciada
+[2024-06-18 11:10:51] info: Inicializando otros componentes
+[2024-06-18 11:10:51] info: Servidor funcionando en localhost:3100
+[2024-06-18 11:35:17] info: Empezando el servidor
+[2024-06-18 11:35:17] info: --Inicializamos la BD Mongoose
+[2024-06-18 11:35:17] info: --Base de datos Mongoose iniciada
+[2024-06-18 11:35:17] info: Inicializando otros componentes
+[2024-06-18 11:35:17] info: Servidor funcionando en localhost:3100
+[2024-06-18 11:36:21] info: Empezando el servidor
+[2024-06-18 11:36:21] info: --Inicializamos la BD Mongoose
+[2024-06-18 11:36:21] info: --Base de datos Mongoose iniciada
+[2024-06-18 11:36:21] info: Inicializando otros componentes
+[2024-06-18 11:36:21] info: Servidor funcionando en localhost:3100
+[2024-06-18 11:38:11] info: Empezando el servidor
+[2024-06-18 11:38:11] info: --Inicializamos la BD Mongoose
+[2024-06-18 11:38:11] info: --Base de datos Mongoose iniciada
+[2024-06-18 11:38:11] info: Inicializando otros componentes
+[2024-06-18 11:38:11] info: Servidor funcionando en localhost:3100
+[2024-06-18 11:38:24] info: Empezando el servidor
+[2024-06-18 11:38:24] info: --Inicializamos la BD Mongoose
+[2024-06-18 11:38:24] info: --Base de datos Mongoose iniciada
+[2024-06-18 11:38:24] info: Inicializando otros componentes
+[2024-06-18 11:38:24] info: Servidor funcionando en localhost:3100
+[2024-06-18 11:38:51] info: Empezando el servidor
+[2024-06-18 11:38:51] info: --Inicializamos la BD Mongoose
+[2024-06-18 11:38:51] info: --Base de datos Mongoose iniciada
+[2024-06-18 11:38:51] info: Inicializando otros componentes
+[2024-06-18 11:38:51] info: Servidor funcionando en localhost:3100
+[2024-06-18 11:38:57] info: Empezando el servidor
+[2024-06-18 11:38:57] info: --Inicializamos la BD Mongoose
+[2024-06-18 11:38:57] info: --Base de datos Mongoose iniciada
+[2024-06-18 11:38:57] info: Inicializando otros componentes
+[2024-06-18 11:38:57] info: Servidor funcionando en localhost:3100
+[2024-06-18 11:39:05] info: Empezando el servidor
+[2024-06-18 11:39:05] info: --Inicializamos la BD Mongoose
+[2024-06-18 11:39:05] info: --Base de datos Mongoose iniciada
+[2024-06-18 11:39:05] info: Inicializando otros componentes
+[2024-06-18 11:39:05] info: Servidor funcionando en localhost:3100
+[2024-06-18 11:39:22] info: Empezando el servidor
+[2024-06-18 11:39:22] info: --Inicializamos la BD Mongoose
+[2024-06-18 11:39:22] info: --Base de datos Mongoose iniciada
+[2024-06-18 11:39:22] info: Inicializando otros componentes
+[2024-06-18 11:39:22] info: Servidor funcionando en localhost:3100
+[2024-06-18 11:40:45] info: Empezando el servidor
+[2024-06-18 11:40:45] info: --Inicializamos la BD Mongoose
+[2024-06-18 11:40:45] info: --Base de datos Mongoose iniciada
+[2024-06-18 11:40:45] info: Inicializando otros componentes
+[2024-06-18 11:40:45] info: Servidor funcionando en localhost:3100
+[2024-06-18 11:41:55] info: Empezando el servidor
+[2024-06-18 11:41:55] info: --Inicializamos la BD Mongoose
+[2024-06-18 11:41:55] info: --Base de datos Mongoose iniciada
+[2024-06-18 11:41:55] info: Inicializando otros componentes
+[2024-06-18 11:41:55] info: Servidor funcionando en localhost:3100
+[2024-06-18 11:42:33] info: Empezando el servidor
+[2024-06-18 11:42:33] info: --Inicializamos la BD Mongoose
+[2024-06-18 11:42:33] info: --Base de datos Mongoose iniciada
+[2024-06-18 11:42:33] info: Inicializando otros componentes
+[2024-06-18 11:42:33] info: Servidor funcionando en localhost:3100
+[2024-06-18 11:44:20] info: Empezando el servidor
+[2024-06-18 11:44:20] info: --Inicializamos la BD Mongoose
+[2024-06-18 11:44:20] info: --Base de datos Mongoose iniciada
+[2024-06-18 11:44:20] info: Inicializando otros componentes
+[2024-06-18 11:44:20] info: Servidor funcionando en localhost:3100
+[2024-06-18 11:44:34] info: Empezando el servidor
+[2024-06-18 11:44:34] info: --Inicializamos la BD Mongoose
+[2024-06-18 11:44:35] info: --Base de datos Mongoose iniciada
+[2024-06-18 11:44:35] info: Inicializando otros componentes
+[2024-06-18 11:44:35] info: Servidor funcionando en localhost:3100
+[2024-06-18 11:45:24] info: Empezando el servidor
+[2024-06-18 11:45:24] info: --Inicializamos la BD Mongoose
+[2024-06-18 11:45:24] info: --Base de datos Mongoose iniciada
+[2024-06-18 11:45:24] info: Inicializando otros componentes
+[2024-06-18 11:45:24] info: Servidor funcionando en localhost:3100
+[2024-06-18 11:45:35] info: Empezando el servidor
+[2024-06-18 11:45:35] info: --Inicializamos la BD Mongoose
+[2024-06-18 11:45:35] info: --Base de datos Mongoose iniciada
+[2024-06-18 11:45:35] info: Inicializando otros componentes
+[2024-06-18 11:45:35] info: Servidor funcionando en localhost:3100
+[2024-06-18 11:47:06] info: Empezando el servidor
+[2024-06-18 11:47:06] info: --Inicializamos la BD Mongoose
+[2024-06-18 11:47:07] info: --Base de datos Mongoose iniciada
+[2024-06-18 11:47:07] info: Inicializando otros componentes
+[2024-06-18 11:47:07] info: Servidor funcionando en localhost:3100
+[2024-06-18 11:49:28] info: Empezando el servidor
+[2024-06-18 11:49:28] info: --Inicializamos la BD Mongoose
+[2024-06-18 11:49:28] info: --Base de datos Mongoose iniciada
+[2024-06-18 11:49:28] info: Inicializando otros componentes
+[2024-06-18 11:49:28] info: Servidor funcionando en localhost:3100
+[2024-06-18 11:49:58] info: Empezando el servidor
+[2024-06-18 11:49:58] info: --Inicializamos la BD Mongoose
+[2024-06-18 11:49:58] info: --Base de datos Mongoose iniciada
+[2024-06-18 11:49:58] info: Inicializando otros componentes
+[2024-06-18 11:49:58] info: Servidor funcionando en localhost:3100
+[2024-06-18 11:50:09] info: Empezando el servidor
+[2024-06-18 11:50:09] info: --Inicializamos la BD Mongoose
+[2024-06-18 11:50:09] info: --Base de datos Mongoose iniciada
+[2024-06-18 11:50:09] info: Inicializando otros componentes
+[2024-06-18 11:50:09] info: Servidor funcionando en localhost:3100
+[2024-06-18 11:51:32] info: Empezando el servidor
+[2024-06-18 11:51:32] info: --Inicializamos la BD Mongoose
+[2024-06-18 11:51:32] info: --Base de datos Mongoose iniciada
+[2024-06-18 11:51:32] info: Inicializando otros componentes
+[2024-06-18 11:51:32] info: Servidor funcionando en localhost:3100
+[2024-06-18 11:52:55] info: Empezando el servidor
+[2024-06-18 11:52:55] info: --Inicializamos la BD Mongoose
+[2024-06-18 11:52:55] info: --Base de datos Mongoose iniciada
+[2024-06-18 11:52:55] info: Inicializando otros componentes
+[2024-06-18 11:52:55] info: Servidor funcionando en localhost:3100
+[2024-06-18 11:54:40] info: Empezando el servidor
+[2024-06-18 11:54:40] info: --Inicializamos la BD Mongoose
+[2024-06-18 11:54:41] info: --Base de datos Mongoose iniciada
+[2024-06-18 11:54:41] info: Inicializando otros componentes
+[2024-06-18 11:54:41] info: Servidor funcionando en localhost:3100
+[2024-06-18 14:55:11] info: Empezando el servidor
+[2024-06-18 14:55:11] info: --Inicializamos la BD Mongoose
+[2024-06-18 14:55:11] info: --Base de datos Mongoose iniciada
+[2024-06-18 14:55:11] info: Inicializando otros componentes
+[2024-06-18 14:55:11] info: Servidor funcionando en localhost:3100
+[2024-06-18 14:56:55] info: Empezando el servidor
+[2024-06-18 14:56:55] info: --Inicializamos la BD Mongoose
+[2024-06-18 14:56:55] info: --Base de datos Mongoose iniciada
+[2024-06-18 14:56:55] info: Inicializando otros componentes
+[2024-06-18 14:56:55] info: Servidor funcionando en localhost:3100
+[2024-06-18 14:58:06] info: Empezando el servidor
+[2024-06-18 14:58:06] info: --Inicializamos la BD Mongoose
+[2024-06-18 14:58:06] info: --Base de datos Mongoose iniciada
+[2024-06-18 14:58:06] info: Inicializando otros componentes
+[2024-06-18 14:58:06] info: Servidor funcionando en localhost:3100
+[2024-06-18 15:00:49] info: Empezando el servidor
+[2024-06-18 15:00:49] info: --Inicializamos la BD Mongoose
+[2024-06-18 15:00:49] info: --Base de datos Mongoose iniciada
+[2024-06-18 15:00:49] info: Inicializando otros componentes
+[2024-06-18 15:00:49] info: Servidor funcionando en localhost:3100
+[2024-06-18 15:00:58] info: Empezando el servidor
+[2024-06-18 15:00:58] info: --Inicializamos la BD Mongoose
+[2024-06-18 15:00:58] info: --Base de datos Mongoose iniciada
+[2024-06-18 15:00:58] info: Inicializando otros componentes
+[2024-06-18 15:00:58] info: Servidor funcionando en localhost:3100
+[2024-06-18 15:08:57] info: Empezando el servidor
+[2024-06-18 15:08:57] info: --Inicializamos la BD Mongoose
+[2024-06-18 15:08:57] info: --Base de datos Mongoose iniciada
+[2024-06-18 15:08:57] info: Inicializando otros componentes
+[2024-06-18 15:08:57] info: Servidor funcionando en localhost:3100
+[2024-06-18 15:10:49] info: Empezando el servidor
+[2024-06-18 15:10:49] info: --Inicializamos la BD Mongoose
+[2024-06-18 15:10:49] info: --Base de datos Mongoose iniciada
+[2024-06-18 15:10:49] info: Inicializando otros componentes
+[2024-06-18 15:10:49] info: Servidor funcionando en localhost:3100
+[2024-06-18 15:11:19] info: Empezando el servidor
+[2024-06-18 15:11:19] info: --Inicializamos la BD Mongoose
+[2024-06-18 15:11:19] info: --Base de datos Mongoose iniciada
+[2024-06-18 15:11:19] info: Inicializando otros componentes
+[2024-06-18 15:11:19] info: Servidor funcionando en localhost:3100
+[2024-06-18 15:12:17] info: Empezando el servidor
+[2024-06-18 15:12:17] info: --Inicializamos la BD Mongoose
+[2024-06-18 15:12:18] info: --Base de datos Mongoose iniciada
+[2024-06-18 15:12:18] info: Inicializando otros componentes
+[2024-06-18 15:12:18] info: Servidor funcionando en localhost:3100
+[2024-06-18 15:12:28] info: Empezando el servidor
+[2024-06-18 15:12:28] info: --Inicializamos la BD Mongoose
+[2024-06-18 15:12:28] info: --Base de datos Mongoose iniciada
+[2024-06-18 15:12:28] info: Inicializando otros componentes
+[2024-06-18 15:12:28] info: Servidor funcionando en localhost:3100
+[2024-06-18 15:17:28] info: Empezando el servidor
+[2024-06-18 15:17:28] info: --Inicializamos la BD Mongoose
+[2024-06-18 15:17:28] info: --Base de datos Mongoose iniciada
+[2024-06-18 15:17:28] info: Inicializando otros componentes
+[2024-06-18 15:17:28] info: Servidor funcionando en localhost:3100
+[2024-06-18 15:19:43] info: Empezando el servidor
+[2024-06-18 15:19:43] info: --Inicializamos la BD Mongoose
+[2024-06-18 15:19:43] info: --Base de datos Mongoose iniciada
+[2024-06-18 15:19:43] info: Inicializando otros componentes
+[2024-06-18 15:19:43] info: Servidor funcionando en localhost:3100
+[2024-06-18 15:20:16] info: Empezando el servidor
+[2024-06-18 15:20:16] info: --Inicializamos la BD Mongoose
+[2024-06-18 15:20:17] info: --Base de datos Mongoose iniciada
+[2024-06-18 15:20:17] info: Inicializando otros componentes
+[2024-06-18 15:20:17] info: Servidor funcionando en localhost:3100
+[2024-06-18 15:21:59] info: Empezando el servidor
+[2024-06-18 15:21:59] info: --Inicializamos la BD Mongoose
+[2024-06-18 15:21:59] info: --Base de datos Mongoose iniciada
+[2024-06-18 15:21:59] info: Inicializando otros componentes
+[2024-06-18 15:21:59] info: Servidor funcionando en localhost:3100
+[2024-06-18 15:24:23] info: Empezando el servidor
+[2024-06-18 15:24:23] info: --Inicializamos la BD Mongoose
+[2024-06-18 15:24:23] info: --Base de datos Mongoose iniciada
+[2024-06-18 15:24:23] info: Inicializando otros componentes
+[2024-06-18 15:24:23] info: Servidor funcionando en localhost:3100
+[2024-06-20 09:41:00] info: Empezando el servidor
+[2024-06-20 09:41:00] info: --Inicializamos la BD Mongoose
+[2024-06-20 09:41:00] info: --Base de datos Mongoose iniciada
+[2024-06-20 09:41:00] info: Inicializando otros componentes
+[2024-06-20 09:41:00] info: Servidor funcionando en localhost:3100
+[2024-06-20 12:02:44] info: Recibió SIGINT

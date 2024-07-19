@@ -1,0 +1,33 @@
+VIM
+############################################################################################################################
+############################################################################################################################
+
+Para crear y/o editar algún documento en vim solo hace falta escribir el comando.
+- vim <nombre de archivo>
+
+- i			(Para aplicar el modo de edición (INSERCIÓN))
+- ESC			(Para salir de algún modo)
+- :q			(Para cerrar el vim)
+- :wq			(Para guardar y cerrar el vim)
+- :x			(Equivale al ":wq")
+- :q! 			(Para cerrar el vim de modo forzoso)
+- :w			(Para guardar el progreso realizado)
+- :edit <ruta>		(Abre el archivo con la ruta especificada)
+- :set number, set nu	(Muestra números en el texto)
+- dw			(Corta toda la porción de una palabra que se encuentre a la derecha del cursor)
+- p			(Pega el texto del portapapeles)
+- /<texto>		(Busca el "texto" dentro del documento)
+
+Navegación:
+- <numero>H			(Ir a la izquierda "n" veces)
+- <numero>J			(Ir a la línea siguiente "n" veces)
+- <numero>K			(Ir a la línea anterior "n" veces)
+- <numero>L			(Ir a la derecha "n" veces)
+- <numero>F<letra>		(Ir a la siguiente "n" "letra" encontrada)
+
+- <numero>B			(Ir al inicio de la "n" palabra anterior)
+- <numero>W			(Ir al inicio de la siguiente "n" palabra)
+- *				(Encuentra la siguiente palabra sobre la que está el cursor)
+- gg				(Ir al inicio del documento)
+- GG				(Ir al final del documento)
+- <numero>G			(Ir a la línea número "n")

@@ -1,0 +1,28 @@
+ISO27001
+= Es una norma internacional que ayuda a mantener la información SEGURA mediante un ISMS (sistema de gestión de seguridad de información).
+- Para poder contar con ello, es necesario encontrar un organismo de certificación.
+- La ISO no tiene forma de como contrarestar todos los riesgos identificados, pero sí los gestiona.
+- Sus pilares son: la integridad, disponibilidad y confidencialidad.
+- Sin embargo, también cuenta con aspectos como:
+	Autenticidad: ser consistente, es decir, una entidad o usuario sea quien dice ser.
+	No repudio: es la capacidad de corroborar que un hecho ha sido cometido por un usuario.
+	Fiabilidad: propiedad relativa a la "consistencia" en el comportamiento del sistema, es decir, que cumpla con lo prometido.
+
+- Vulnerabilidad: es la debilidad de un activo o control que pueda ser explotada por una amenaza. (Falla, omisión o deficiencia)
+- Riesgo: es la conjunción de un impacto y una probabilidad.
+- La fases de la ISO27001 se resumen en el Ciclo de Deming: plan (planificar), do (operación), check (evaluación del desempeño), act (mejorar)
+
+
+
+ISO27002
+= Es una norma que es usada como referencia para implementar controles con el fin de mitigar los riesgos identificados durante 
+el proceso de evaluación de riesgos. Es una guía para desarrollar e implementar un ISMS.
+- Presenta 18 cláusulas, siendo solo 14 los cuales se llegan a aplicar. 
+
+
+
+ISO25023
+
+
+ISO25012
+= Es una norma que propone un modelo de calidad de datos.

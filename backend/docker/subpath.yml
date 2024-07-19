@@ -1,0 +1,39 @@
+services:
+  mongo_armada:
+    image: mongo:5.0.23-focal
+    container_name: armada_database
+    environment:
+      - AUTH=yes
+      - MONGO_INITDB_ROOT_USERNAME=armada
+      - MONGO_INITDB_ROOT_PASSWORD=armadaPass
+    ports:
+      - 8101:27017
+    volumes:
+      - type: volume
+        source: volume_armada
+        target: /data/db
+        volume:
+          
+          nocopy: true
+          subpath: mongoose
+      # - volume_armada:/data/db
+    networks:
+      - network_armada
+
+networks:
+  network_armada:
+    driver: bridge
+    driver_opts:
+      com.docker.network.driver.mtu: 1450
+
+
+volumes:
+  volume_armada:
+    driver: local
+    driver_opts:
+      type: none
+      device: D:\Burdel\backend\data
+      o: bind
+
+# PARA CORRER ESTO ES NECESARIO EJECUTAR EL SIGUIENTE COMANDO
+# docker-compose -f ./docker/subpath.yml -p armada up --build

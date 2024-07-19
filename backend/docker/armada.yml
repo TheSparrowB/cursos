@@ -1,0 +1,38 @@
+services:
+  mongo_armada:
+    image: mongo:5.0.23-focal
+    container_name: armada_database
+    # ACA SETEAREMOS NUESTRO USUARIO Y CONTRASEÑA DE LA BD
+    environment:
+      - AUTH=yes
+      - MONGO_INITDB_ROOT_USERNAME=armada
+      - MONGO_INITDB_ROOT_PASSWORD=armadaPass
+    # EL PRIMER PUERTO ES LA SALIDA AL HOST
+    ports:
+      - 8101:27017
+    # DESPUES DE LOS DOS PUNTOS ":" INDICAMOS LA RUTA DEL CONTAINER
+    volumes:
+      - volume_armada:/data/db
+    networks:
+      - network_armada
+
+networks:
+  network_armada:
+    driver: bridge
+    driver_opts:
+      com.docker.network.driver.mtu: 1450
+
+
+# ACA ESTAMOS USANDO DE FRENTE LA CARPETA MONGOOSE, LA IDEA ES TENER DIFERENTES TIPOS
+# DE BASES DE DATOS EN UN SOLO VOLUMEN, ESTO NOS SERA POSIBLE GRACIAS AL "SUBPATH"
+# PERO, POR EL MOMENTO HAY ERRORES AL EJECUTARLO
+volumes:
+  volume_armada:
+    driver: local
+    driver_opts:
+      type: none
+      device: D:\Burdel\backend\data\mongoose
+      o: bind
+
+# PARA CORRER ESTO ES NECESARIO EJECUTAR EL SIGUIENTE COMANDO
+# docker-compose -f ./docker/armada.yml -p armada up --build

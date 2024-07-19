@@ -1,0 +1,194 @@
+[2024-06-06 17:08:39] [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/routes/tipo.routes.ts[0m:[93m1[0m:[93m32[0m - [91merror[0m[90m TS2307: [0mCannot find module './api/controller/tipo.controller' or its corresponding type declarations.[39m
+
+[31m[7m1[0m import { TipoController } from "./api/controller/tipo.controller";[39m
+[31m[7m [0m [91m                               ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m
+
+[31mTSError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/routes/tipo.routes.ts[0m:[93m1[0m:[93m32[0m - [91merror[0m[90m TS2307: [0mCannot find module './api/controller/tipo.controller' or its corresponding type declarations.[39m
+
+[31m[7m1[0m import { TipoController } from "./api/controller/tipo.controller";[39m
+[31m[7m [0m [91m                               ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m
+
+[31m    at createTSError (D:\Burdel\backend\node_modules\ts-node\src\index.ts:859:12)[39m
+[31m    at reportTSError (D:\Burdel\backend\node_modules\ts-node\src\index.ts:863:19)[39m
+[31m    at getOutput (D:\Burdel\backend\node_modules\ts-node\src\index.ts:1077:36)[39m
+[31m    at Object.compile (D:\Burdel\backend\node_modules\ts-node\src\index.ts:1433:41)[39m
+[31m    at Module.m._compile (D:\Burdel\backend\node_modules\ts-node\src\index.ts:1617:30)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1426:10)[39m
+[31m    at Object.require.extensions.<computed> [as .ts] (D:\Burdel\backend\node_modules\ts-node\src\index.ts:1621:12)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1205:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:1021:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1230:19)[39m
+ FIN
+
+[2024-06-06 17:09:14] [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/routes/tipo.routes.ts[0m:[93m1[0m:[93m32[0m - [91merror[0m[90m TS2307: [0mCannot find module './api/controller/tipo.controller' or its corresponding type declarations.[39m
+
+[31m[7m1[0m import { TipoController } from "./api/controller/tipo.controller";[39m
+[31m[7m [0m [91m                               ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m
+
+[31mTSError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/routes/tipo.routes.ts[0m:[93m1[0m:[93m32[0m - [91merror[0m[90m TS2307: [0mCannot find module './api/controller/tipo.controller' or its corresponding type declarations.[39m
+
+[31m[7m1[0m import { TipoController } from "./api/controller/tipo.controller";[39m
+[31m[7m [0m [91m                               ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m
+
+[31m    at createTSError (D:\Burdel\backend\node_modules\ts-node\src\index.ts:859:12)[39m
+[31m    at reportTSError (D:\Burdel\backend\node_modules\ts-node\src\index.ts:863:19)[39m
+[31m    at getOutput (D:\Burdel\backend\node_modules\ts-node\src\index.ts:1077:36)[39m
+[31m    at Object.compile (D:\Burdel\backend\node_modules\ts-node\src\index.ts:1433:41)[39m
+[31m    at Module.m._compile (D:\Burdel\backend\node_modules\ts-node\src\index.ts:1617:30)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1426:10)[39m
+[31m    at Object.require.extensions.<computed> [as .ts] (D:\Burdel\backend\node_modules\ts-node\src\index.ts:1621:12)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1205:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:1021:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1230:19)[39m
+FIN
+
+[2024-06-11 16:07:22] [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/api/controller/tipo.controller.ts[0m:[93m19[0m:[93m17[0m - [91merror[0m[90m TS2322: [0mType 'number' is not assignable to type 'string'.[39m
+
+[31m[7m19[0m                 nid_tipo: pm.extraerNumero(cuerpo.nid_tipo),[39m
+[31m[7m  [0m [91m                ~~~~~~~~[0m[39m
+
+[31m  [96msrc/api/entity/models/tipo.ts[0m:[93m3[0m:[93m5[0m[39m
+[31m    [7m3[0m     nid_tipo?: string;[39m
+[31m    [7m [0m [96m    ~~~~~~~~[0m[39m
+[31m    The expected type comes from property 'nid_tipo' which is declared here on type 'TIPO'[39m
+
+[31mTSError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/api/controller/tipo.controller.ts[0m:[93m19[0m:[93m17[0m - [91merror[0m[90m TS2322: [0mType 'number' is not assignable to type 'string'.[39m
+
+[31m[7m19[0m                 nid_tipo: pm.extraerNumero(cuerpo.nid_tipo),[39m
+[31m[7m  [0m [91m                ~~~~~~~~[0m[39m
+
+[31m  [96msrc/api/entity/models/tipo.ts[0m:[93m3[0m:[93m5[0m[39m
+[31m    [7m3[0m     nid_tipo?: string;[39m
+[31m    [7m [0m [96m    ~~~~~~~~[0m[39m
+[31m    The expected type comes from property 'nid_tipo' which is declared here on type 'TIPO'[39m
+
+[31m    at createTSError (D:\Burdel\backend\node_modules\ts-node\src\index.ts:859:12)[39m
+[31m    at reportTSError (D:\Burdel\backend\node_modules\ts-node\src\index.ts:863:19)[39m
+[31m    at getOutput (D:\Burdel\backend\node_modules\ts-node\src\index.ts:1077:36)[39m
+[31m    at Object.compile (D:\Burdel\backend\node_modules\ts-node\src\index.ts:1433:41)[39m
+[31m    at Module.m._compile (D:\Burdel\backend\node_modules\ts-node\src\index.ts:1617:30)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1426:10)[39m
+[31m    at Object.require.extensions.<computed> [as .ts] (D:\Burdel\backend\node_modules\ts-node\src\index.ts:1621:12)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1205:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:1021:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1230:19)[39m
+FIN
+
+[2024-06-11 16:44:36] [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/api/controller/tipo.controller.ts[0m:[93m28[0m:[93m52[0m - [91merror[0m[90m TS2554: [0mExpected 1 arguments, but got 2.[39m
+
+[31m[7m28[0m                     throw(pm.mongooseError(e.code, e.keyValue));[39m
+[31m[7m  [0m [91m                                                   ~~~~~~~~~~[0m[39m
+
+[31mTSError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/api/controller/tipo.controller.ts[0m:[93m28[0m:[93m52[0m - [91merror[0m[90m TS2554: [0mExpected 1 arguments, but got 2.[39m
+
+[31m[7m28[0m                     throw(pm.mongooseError(e.code, e.keyValue));[39m
+[31m[7m  [0m [91m                                                   ~~~~~~~~~~[0m[39m
+
+[31m    at createTSError (D:\Burdel\backend\node_modules\ts-node\src\index.ts:859:12)[39m
+[31m    at reportTSError (D:\Burdel\backend\node_modules\ts-node\src\index.ts:863:19)[39m
+[31m    at getOutput (D:\Burdel\backend\node_modules\ts-node\src\index.ts:1077:36)[39m
+[31m    at Object.compile (D:\Burdel\backend\node_modules\ts-node\src\index.ts:1433:41)[39m
+[31m    at Module.m._compile (D:\Burdel\backend\node_modules\ts-node\src\index.ts:1617:30)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1426:10)[39m
+[31m    at Object.require.extensions.<computed> [as .ts] (D:\Burdel\backend\node_modules\ts-node\src\index.ts:1621:12)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1205:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:1021:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1230:19)[39m
+FIN
+
+[2024-06-18 14:55:44] [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/api/controller/individuo.controller.ts[0m:[93m22[0m:[93m17[0m - [91merror[0m[90m TS2353: [0mObject literal may only specify known properties, and 'txt_sort_column' does not exist in type 'INDIVIDUO'.[39m
+
+[31m[7m22[0m                 txt_sort_column: pm.extraerTexto(cuerpo.txt_sort_column),[39m
+[31m[7m  [0m [91m                ~~~~~~~~~~~~~~~[0m[39m
+[31m[96msrc/api/controller/individuo.controller.ts[0m:[93m29[0m:[93m27[0m - [91merror[0m[90m TS2339: [0mProperty 'txt_sort_column' does not exist on type 'INDIVIDUO'.[39m
+
+[31m[7m29[0m             if(parametros.txt_sort_column){[39m
+[31m[7m  [0m [91m                          ~~~~~~~~~~~~~~~[0m[39m
+[31m[96msrc/api/controller/individuo.controller.ts[0m:[93m30[0m:[93m49[0m - [91merror[0m[90m TS2339: [0mProperty 'txt_sort_column' does not exist on type 'INDIVIDUO'.[39m
+
+[31m[7m30[0m                 parametros.obj_orden[parametros.txt_sort_column] = parametros.num_sort_order[39m
+[31m[7m  [0m [91m                                                ~~~~~~~~~~~~~~~[0m[39m
+
+[31mTSError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/api/controller/individuo.controller.ts[0m:[93m22[0m:[93m17[0m - [91merror[0m[90m TS2353: [0mObject literal may only specify known properties, and 'txt_sort_column' does not exist in type 'INDIVIDUO'.[39m
+
+[31m[7m22[0m                 txt_sort_column: pm.extraerTexto(cuerpo.txt_sort_column),[39m
+[31m[7m  [0m [91m                ~~~~~~~~~~~~~~~[0m[39m
+[31m[96msrc/api/controller/individuo.controller.ts[0m:[93m29[0m:[93m27[0m - [91merror[0m[90m TS2339: [0mProperty 'txt_sort_column' does not exist on type 'INDIVIDUO'.[39m
+
+[31m[7m29[0m             if(parametros.txt_sort_column){[39m
+[31m[7m  [0m [91m                          ~~~~~~~~~~~~~~~[0m[39m
+[31m[96msrc/api/controller/individuo.controller.ts[0m:[93m30[0m:[93m49[0m - [91merror[0m[90m TS2339: [0mProperty 'txt_sort_column' does not exist on type 'INDIVIDUO'.[39m
+
+[31m[7m30[0m                 parametros.obj_orden[parametros.txt_sort_column] = parametros.num_sort_order[39m
+[31m[7m  [0m [91m                                                ~~~~~~~~~~~~~~~[0m[39m
+
+[31m    at createTSError (D:\Burdel\backend\node_modules\ts-node\src\index.ts:859:12)[39m
+[31m    at reportTSError (D:\Burdel\backend\node_modules\ts-node\src\index.ts:863:19)[39m
+[31m    at getOutput (D:\Burdel\backend\node_modules\ts-node\src\index.ts:1077:36)[39m
+[31m    at Object.compile (D:\Burdel\backend\node_modules\ts-node\src\index.ts:1433:41)[39m
+[31m    at Module.m._compile (D:\Burdel\backend\node_modules\ts-node\src\index.ts:1617:30)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1426:10)[39m
+[31m    at Object.require.extensions.<computed> [as .ts] (D:\Burdel\backend\node_modules\ts-node\src\index.ts:1621:12)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1205:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:1021:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1230:19)[39m
+FIN
+
+[2024-06-18 14:55:50] [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/api/controller/individuo.controller.ts[0m:[93m22[0m:[93m17[0m - [91merror[0m[90m TS2353: [0mObject literal may only specify known properties, and 'txt_sort_column' does not exist in type 'INDIVIDUO'.[39m
+
+[31m[7m22[0m                 txt_sort_column: pm.extraerTexto(cuerpo.txt_sort_column),[39m
+[31m[7m  [0m [91m                ~~~~~~~~~~~~~~~[0m[39m
+[31m[96msrc/api/controller/individuo.controller.ts[0m:[93m29[0m:[93m27[0m - [91merror[0m[90m TS2339: [0mProperty 'txt_sort_column' does not exist on type 'INDIVIDUO'.[39m
+
+[31m[7m29[0m             if(parametros.txt_sort_column){[39m
+[31m[7m  [0m [91m                          ~~~~~~~~~~~~~~~[0m[39m
+[31m[96msrc/api/controller/individuo.controller.ts[0m:[93m30[0m:[93m49[0m - [91merror[0m[90m TS2339: [0mProperty 'txt_sort_column' does not exist on type 'INDIVIDUO'.[39m
+
+[31m[7m30[0m                 parametros.obj_orden[parametros.txt_sort_column] = parametros.num_sort_order[39m
+[31m[7m  [0m [91m                                                ~~~~~~~~~~~~~~~[0m[39m
+[31m[96msrc/api/controller/individuo.controller.ts[0m:[93m30[0m:[93m79[0m - [91merror[0m[90m TS2339: [0mProperty 'num_sort_order' does not exist on type 'INDIVIDUO'.[39m
+
+[31m[7m30[0m                 parametros.obj_orden[parametros.txt_sort_column] = parametros.num_sort_order[39m
+[31m[7m  [0m [91m                                                                              ~~~~~~~~~~~~~~[0m[39m
+
+[31mTSError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/api/controller/individuo.controller.ts[0m:[93m22[0m:[93m17[0m - [91merror[0m[90m TS2353: [0mObject literal may only specify known properties, and 'txt_sort_column' does not exist in type 'INDIVIDUO'.[39m
+
+[31m[7m22[0m                 txt_sort_column: pm.extraerTexto(cuerpo.txt_sort_column),[39m
+[31m[7m  [0m [91m                ~~~~~~~~~~~~~~~[0m[39m
+[31m[96msrc/api/controller/individuo.controller.ts[0m:[93m29[0m:[93m27[0m - [91merror[0m[90m TS2339: [0mProperty 'txt_sort_column' does not exist on type 'INDIVIDUO'.[39m
+
+[31m[7m29[0m             if(parametros.txt_sort_column){[39m
+[31m[7m  [0m [91m                          ~~~~~~~~~~~~~~~[0m[39m
+[31m[96msrc/api/controller/individuo.controller.ts[0m:[93m30[0m:[93m49[0m - [91merror[0m[90m TS2339: [0mProperty 'txt_sort_column' does not exist on type 'INDIVIDUO'.[39m
+
+[31m[7m30[0m                 parametros.obj_orden[parametros.txt_sort_column] = parametros.num_sort_order[39m
+[31m[7m  [0m [91m                                                ~~~~~~~~~~~~~~~[0m[39m
+[31m[96msrc/api/controller/individuo.controller.ts[0m:[93m30[0m:[93m79[0m - [91merror[0m[90m TS2339: [0mProperty 'num_sort_order' does not exist on type 'INDIVIDUO'.[39m
+
+[31m[7m30[0m                 parametros.obj_orden[parametros.txt_sort_column] = parametros.num_sort_order[39m
+[31m[7m  [0m [91m                                                                              ~~~~~~~~~~~~~~[0m[39m
+
+[31m    at createTSError (D:\Burdel\backend\node_modules\ts-node\src\index.ts:859:12)[39m
+[31m    at reportTSError (D:\Burdel\backend\node_modules\ts-node\src\index.ts:863:19)[39m
+[31m    at getOutput (D:\Burdel\backend\node_modules\ts-node\src\index.ts:1077:36)[39m
+[31m    at Object.compile (D:\Burdel\backend\node_modules\ts-node\src\index.ts:1433:41)[39m
+[31m    at Module.m._compile (D:\Burdel\backend\node_modules\ts-node\src\index.ts:1617:30)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1426:10)[39m
+[31m    at Object.require.extensions.<computed> [as .ts] (D:\Burdel\backend\node_modules\ts-node\src\index.ts:1621:12)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1205:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:1021:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1230:19)[39m
+FIN
+

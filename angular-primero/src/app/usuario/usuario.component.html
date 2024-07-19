@@ -1,0 +1,61 @@
+<section>
+    <header>
+        <h3>USO DEL COMANDO &lt;IF&gt;</h3>
+    </header>
+
+    @if(isLogeado){
+        <p>Okay <strong>{{txtUsuario}}</strong>, puedes pasar.</p>
+        <img src="/img/jpg/girl_happy.jpg" width="250px">
+    }
+    @else{
+        <p>No te veo registrado, jódete.</p>
+        <img src="/img/jpg/girl_angry.jpg" width="250px">
+    }
+
+    <p *ngIf="txtFavorito && isLogeado">
+        <span><img src="/img/svg/heart.svg" width="30px" alt="Favorito"/></span>
+        <span>&emsp; Tu juego favorito es {{txtFavorito}}</span>
+    </p>
+
+    <footer>
+        <button (click)="gestionarSesion()">{{txtSesion}}</button>
+        <p>PD: Eres un simple usuario.</p>
+    </footer>
+</section>
+
+<hr>
+
+@if(isLogeado){
+    <app-juego [txtJugador]="txtUsuario" (favoritoEvent)="anunciarFavorito($event)"/>
+}
+@else {
+    <section>
+        <h3>Datos de la Página</h3>
+
+        <p style="text-align: left;">
+            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eius neque asperiores distinctio illum animi, consectetur, nobis itaque quibusdam sapiente recusandae voluptatibus unde dolores ipsa praesentium optio tempora quas eligendi voluptates.
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Culpa vero atque illum aperiam alias minima! Quaerat ea explicabo corrupti minima dolor dolores dignissimos adipisci, laborum, soluta reprehenderit nostrum consequuntur quisquam?
+            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vel minus autem odio cum nesciunt aperiam! Adipisci, enim. Laboriosam ratione mollitia debitis exercitationem reprehenderit iusto voluptatibus, in, facere officiis eveniet laudantium.
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita sunt laborum eveniet, tenetur obcaecati qui labore autem ipsum. Architecto nisi voluptate sapiente dolorum maiores rerum alias. Maxime quod iusto asperiores.
+            <br>
+            <br>
+            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Animi natus fugiat optio. Vitae, aspernatur ipsam incidunt, praesentium repellendus vel, dolores quisquam sequi accusantium eaque voluptatem quo quas nesciunt pariatur nemo.
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Non, asperiores! Repellat quo rem nemo cupiditate necessitatibus quidem ducimus nihil labore. Ad corporis fugiat suscipit ratione quibusdam quae atque et mollitia.
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt illum nesciunt perspiciatis hic. Repudiandae ut, neque minus pariatur nemo libero earum ab est doloribus. Nihil quia voluptatum officia error assumenda.
+            <br>
+            <br>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos dolore quaerat, quia nobis voluptas hic quo fugit delectus temporibus? Eveniet iste velit placeat veniam. Commodi laudantium consequuntur unde excepturi quisquam.
+        </p>
+
+        @defer {
+            <div>
+                <img  src="/img/webp/mb.webp">
+            </div>
+        }
+        @placeholder {
+            <p><strong>Cargando imagen de la diosa OwO.</strong></p>
+        }
+        
+    </section>
+}
+

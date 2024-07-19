@@ -1,0 +1,21 @@
+<section #ratita>
+    <div class="cabecera">
+        <div class="arrimado">
+            <p class="no-margin">Una ratona fumando marimba unas {{fumadas}} veces.</p>
+            <p class="no-margin" *ngIf="fumadas>20" style="color: rgb(151, 15, 15);">
+                <strong>Ahora se encuentra jodida</strong>
+            </p>
+            <button style="margin-top: 10px;" (click)="fumarMota()">HAZLA FUMAR MÁS</button>
+        </div>
+        <div class="arrimado" style="text-align: right;">
+            <ng-container *ngIf="fumadas>20; then jodida; else sana"></ng-container>
+            <ng-template #sana>
+                <img src="img/jpg/rat_smoking.jpg" width="100px">
+            </ng-template>
+            <ng-template #jodida>
+                <img src="img/jpg/rat_sick.jpg" width="100px">
+            </ng-template>
+        </div>
+    </div>
+</section>
+

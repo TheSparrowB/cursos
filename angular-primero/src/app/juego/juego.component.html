@@ -1,0 +1,44 @@
+<section>
+    <header>
+        <h3>USO DEL COMANDO &lt;FOR&gt;</h3>
+    </header>
+
+    <p>La librería de juegos de <strong>{{txtJugador}}</strong></p>
+    <table style="margin: 0 auto;">
+        <col width="150px">
+        <col width="50px">
+
+        @for(g of listaJuego; track g.id){
+            <tr>
+                <td (click)="seleccionarJuego(g)">{{g.name}}</td>
+                <td style="text-align: center;"><img (click)="guardarFavorito(g.id)" src="/img/svg/heart.svg" width="30px" alt="Favorito"/></td>
+            </tr>
+        }
+    </table>
+</section>
+
+<section *ngIf="juegoSeleccionado">
+    <header>
+        <h2 style="text-align: center;">{{juegoSeleccionado.name}}</h2>
+    </header>
+
+    <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt sequi omnis nulla blanditiis dolor obcaecati quisquam ab amet aut veniam vel, odit voluptatum? Obcaecati velit laudantium consectetur fugit possimus rerum?
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Optio ea natus expedita animi laborum nulla nihil beatae illum quasi, nesciunt aut hic modi, aperiam sunt, quae voluptate? Ratione, non quo!
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio, cupiditate beatae nulla aliquid reiciendis temporibus porro! Praesentium voluptate eaque illo nulla exercitationem sequi, tenetur, recusandae doloribus dolorem harum eius nesciunt.
+        <br>
+        <br>
+        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolore optio officiis quae illo commodi delectus quod, pariatur earum consequuntur quos saepe iusto hic labore architecto modi et qui cupiditate ratione!
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias inventore veniam voluptate sit, ratione minus qui fugit rerum. Magnam corrupti debitis laborum itaque quod. Dicta amet quo porro dignissimos veritatis?
+    </p>
+
+    @defer {
+        <app-juego-detalle [parametro]="juegoSeleccionado"/>
+    }
+    @placeholder {
+        <p>CARGANDO DATOS ADICIONALES DEL JUEGO, POR FAVOR ESPERE</p>
+    }
+    
+</section>
+
+

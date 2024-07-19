@@ -1,0 +1,158 @@
+pwd (print working directory)
+- Muestra la ruta actual.
+
+
+printenv
+- Muestra todas las variables de entorno.
+
+
+ls 
+- Sirve para listar los archivos.
+=> l (Muestra un detalle por cada elemento)
+=> h (En conjunto con el "-l", muestra resultados más "entendibles")
+=> a, all (muestra todos los elementos, incluyendo ocultos)
+
+
+clear
+- Limpia la terminal.
+
+
+cd <ruta> (change directory)
+- Nos mueve hacia una ruta determinada.
+(Se puede usar el "~" para irnos a la ruta "home" del usuario)
+
+
+man <comando>
+- Nos muestra la especificación de un comando.
+(Dentro del "man" podemos utilizar "enter" para bajar y "b" para subir unas líneas)
+
+
+mkdir <rutas> (make directory)
+- Permite crear carpetas dada unas rutas.
+> mkdir Perfect Perfect/Bessie Perfect/Aya
+
+
+cp <ruta inicio> <ruta destino> (copy)
+- Permite copiar archivos o carpetas de una ruta a otra
+=> r, R (Permite copiar con recursividad, es decir, incluso subcarpetas)
+=> a (Permite copiar con recursividad y manteniendo las propiedades de origen)
+> cp -a ~/Downloads ~/Documents/Destino (Copia la carpeta entera "Descargas" dentro de la carpeta "Destino")
+> cp -a ~/Downloads/ ~/Documents/Destino (Copia la carpeta entera "Descargas" dentro de la carpeta "Destino")
+> cp -a ~/Downloads/. ~/Documents/Destino (Copia todo el contenido de la carpeta "Descargas" a la carpeta "Destino")
+> cp -a ~/Downloads/. . (Copia todo el contenido de la carpeta "Downloads" a la carpeta donde se encuentra la terminal o [pwd])
+> cp -a ~/Downloads/*.jpg . (Copia únicamente los archivos ".jpg" a la carpeta "pwd")
+
+
+mv <ruta inicio> <ruta destino> (move)
+- Permite mover archivos de una ruta a otra.
+> mv ~/Downloads/bessie3.jpg ./bessieMovida.jpg (Mueve el archivo a la ruta activa, además, le cambia el nombre al archivo)
+> mv ~/Downloads/bessie3.jpg /TheQueen (Mueve el archivo a la carpeta raíz y le cambia el nombre. Requiere SUDO)
+
+ 
+touch <ruta del archivo>
+- Actualiza las fechas de modificación y acceso de los archivos. Si no existe, lo crea, salvo se especifique mediante un flag.
+> touch ~/Downloads/*.jpg (Actualiza las fechas de todos los archivos ".jpg" de la carpeta)
+
+
+rm <ruta del archivo> (remove)
+- Elimina los archivos expecificados según la ruta.
+=> r (Elimina de forma recursiva, es decir, también fólderes)
+> rm /Dumpfile.jpg (Elimina el archivo "Dumpfile" de la carpeta raíz)
+> rm ./bessie8.png (Elimina la imagen "bessie8" del directorio activo)
+> rm -r ~/Documents/Victima (Elimina todo el contenido de la carpeta "Victima", incluido subfólders)
+
+
+history
+- Permite ver el historial de todos los comandos previamente ejecutados.
+
+
+cat <ruta del archivo> (conCATenate)
+- Permite ver el contenido de texto de un archivo.
+
+
+which <programa> 
+- Devuelve la ruta de algún comando ejecutable. (Aquellos dentro del "PATH")
+> which man (Devuelve la ruta donde se encuentra el comando "man")
+
+
+alias <nuevo comando>='<comando>'
+- Asigna unos comandos a un nuevo comando (el alias), pero solo dentro de la sesión bash.
+> alias lista='ls -lh' 
+(PARA PODER AGREGAR ALIAS QUE FUNCIONEN PARA TODOS, ES NECESARIO EDITAR EL ARCHIVO "~/.bashrc")
+
+
+top
+- Muestra información en tiempo real de la ejecución del sistema, incluyendo procesos.
+(Dentro del top se puede tipear la letra "k" e insertar el id del proceso a "matar")
+
+
+kill <id del proceso>
+- Envía una señal al proceso con el id especificado. (Por defecto el 15 "SIGTERM")
+=> 9 (Este flag destruye el proceso de forma inmediata)
+=> 15 (Este flag destruye el proceso de forma "ordenada", incluso puede ser ignorado)
+
+
+grep <ruta del archivo> (global regular expression print)
+- Permite buscar contenido en un archivo mediante el uso de patrones.
+=> e <expression> (Este flag permite buscar contenido mediante la expresion dada)
+=> > <result filename> (Esto guarda los resultados obtenidos en un archivo externo)
+=> i <ruta del archivo> (Este flag no considera mayúsculas o minúsculas)
+=> n <ruta del archivo> (Este flag retorna un número de línea por cada resultado)
+=> E <ruta del archivo> (Este flag permite utilizar REGEX extendido)
+> grep -n personas.txt -e '@gmail.com' (Retorna los registros incluyendo numeración donde se encuentre el término '@gmail.com')
+> grep -nE personas.txt -e '[0-9]+@gmail.com' (Retorna los registros incluyendo numeración en donde el registro tenga al menos un número antes del '@gmail.com', mediante el uso de Regex extendido)
+> grep -nEi personas.txt -e '[0-9]+@gMAIl.com' (Retorna los registros incluyendo al menos un número antes del '@gMAIl' sin importar mayúsculas o minúsculas, mediante el uso de Regex extendido)
+> grep -nE personas.txt -e '[0-9]+@gmail.com' > 'shimeleros.txt'  (Guarda los registros que tengan al menos un número antes del '@gmail.com' en un archivo con nombre 'shimeleros.txt')
+
+
+find <ruta donde buscar> 
+- Busca archivos con nombres que cumplan los criterios dados
+=> name '<nombre>' (Busca los archivos con nombre de archivo 'nombre')
+=> type d (Busca solamente fólderes)
+=> type f (Busca solamente archivos)
+NOTA: El regex aquí es algo complejo debido a que es necesario colocar el "\" por cada caracter especial.
+> find . -regextype grep -regex '.*/*[ek][0-9]\{0,2\}\.'
+
+
+curl <url>
+- Se encarga de invocar servicios mediante el llamado de la URL ingresada.
+=> |more (Se encarga de mostrar el contenido de forma paginada, ENTER para ver la línea siguiente y SPACE o DOWN para ir a la siguiente página, Q para salir)
+=> >'nombre' (Guarda los resultados del servicio en un archivo con el 'nombre' ingresado)
+
+
+zip <nombre del comprimido> <nombre del elemento>...
+- Se encarga de crear un comprimido utilizando como input los elementos mencionados
+> zip ceeseves *.csv (Comprime todos los archivos '.csv' a un comprimido llamado 'ceeseves.zip')
+> zip models milk17.jpg bessie5.jpg (Comprime los dos archivos en un comprimido llamado 'models.zip')
+
+
+unzip <nombre del comprimido> <archivo del comprimido?>
+- Se encarga de extraer el contenido de un archivo comprimido.
+=> d (Define el destino de los archivos extraídos)
+> unzip models milk17.jpg (Extrae solamente el archivo 'milk17.jpg' al directorio actual')
+> unzip reinas.zip 'milk17.jpg' -d ./AllStar/ (Extra el archivo 'milk17.jpg' a la carpeta 'AllStar')
+
+
+chmod <usuario><grupo><todos> <archivo>
+- Se encarga de cambiar los permisos de usuario a un archivo.
+<usuario> Refiere a los permisos del usuario dueño del archivo.
+<grupo> Grupo de usuarios con permisos similares al dueño.
+<todos> Cualquier otro usuario.
+Estos permisos se agregan del 0 (ningún permiso) al 7 (acceso total).
+
+
+echo <cadena>
+- Se encarga de imprimir el valor de la cadena.
+=> Si se le agrega el símbolo '$', entonces se buscará en la lista del 'environment'.
+> echo Este es un ejemplo (Imprime el texto 'Este es un ejemplo')
+> echo $PATH (Imprime el valor de la variable de ambiente 'PATH')
+
+
+tr <caracter inicial> <caracter final>
+- Se encarga de transformar o eliminar caracteres de un input después de un 'pipe'
+> echo 'Peluza la Caperuza' | tr 'z' 's' (Reemplaza todas las 'z' por 's')
+> echo 'AQUI HAY 3 ÑANDUES' | tr [A-Z] [a-z] (Reemplaza todas las mayúsculas por minúsculas, excepto la Ñ)
+> echo $PATH | tr : \\n (Reemplaza los dos puntos por espacios en blanco)
+
+
+

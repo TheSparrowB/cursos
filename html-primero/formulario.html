@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width">
+        <link rel="icon" type="image/png" href="/assets/img/png/nice.png">
+        
+        <title>FORMULARIO</title>
+        <meta name="description" content="En esta página estudiaremos al formulario HTML y sus diversos componentes.">
+    
+        <style>
+            body {
+                background: #f0f0f0;
+            }
+        </style>
+        <link rel="stylesheet" href="/assets/css/prism/prism.css" data-noprefix />
+    </head>
+
+
+    <body>
+
+        <form method="post" action="/formulario.html">
+            <fieldset>
+                <legend>Información Personal</legend>
+
+                <div>
+                    <label for="nombre">Nombre</label>
+                    <input type="text" id="nombre" name="nombre" placeholder="Ingrese el nombre">    
+                </div>
+                <!-- LASTIMOSAMENTE, NO SE PUEDE CAMBIAR EL FORMATO DE UN "CALENDAR" NATIVO -->
+                <div>
+                    <label>
+                        Fecha de Nacimiento
+                        <input type="date" name="fechaNac">
+                    </label>
+                </div>
+                <div>
+                    <label>
+                        Correo
+                        <input type="email" name="correo" required placeholder="Ingrese el correo">
+                    </label>
+                </div>
+                <div>
+                    <label>
+                        Teléfono
+                        <input type="tel" name="telefono" required pattern="[0-9]{9}" placeholder="Ingrese el teléfono">
+                    </label>
+                </div>
+                <div>
+                    <label>
+                        Facción
+                        <input type="text" name="faccion" placeholder="Ingrese la facción">
+                    </label>
+                </div>
+            </fieldset>
+
+            <fieldset>
+                <legend>Información Adicional</legend>
+                <div>
+                    <label>
+                        Intereses
+                        <input type="text" name="interes" placeholder="Ingrese sus intereses">
+                    </label>
+                </div>
+                <div>
+                    <label>
+                        Tipo de Desenvolvimiento
+                        <select name="habilidad" id="cboHabilidad">
+                            <option value="1">Ofensivo</option>
+                            <option value="2">Defensivo</option>
+                            <option value="3">Soporte</option>
+                            <option value="4">Otro</option>
+                        </select>
+                    </label>
+                </div>
+                <div>
+                    <dataList id="listaRol">
+                        <option value="Luchador"></option>
+                        <option value="Tirador"></option>
+                        <option value="Mago"></option>
+                        <option value="Otro"></option>
+                    </dataList>
+                    <label>
+                        Tipo de Rol
+                        <input list="listaRol" name="rol">
+                    </label>
+                </div>
+                <div>
+                    <label>
+                        ¿Aceptas nuestros términos?
+                        <input type="checkbox" id="chkTermino" name="termino" required>
+                    </label>
+                </div>
+            </fieldset>
+
+            <input type="submit" value="ENVIAR">
+        </form>
+
+        <br/>
+        <section>
+            <h3>Preguntas Frecuentes</h3>
+
+            <details>
+                <summary>¿Por qué necesitamos estos datos?</summary>
+                <p>
+                    Estos datos nos sirven de modo que nos facilitarán a identificar al guerrero
+                    que mejor se adapte a los requerimientos.
+                </p>
+            </details>
+            <details open>
+                <summary>¿Comercializarán con mis datos?</summary>
+                <p>
+                    En realidad no. Ya que la venta de datos no es negocio nuestro y todas las acciones
+                    realizadas en este compañía no serán expuestas ante el público.
+                </p>
+            </details>
+            <details>
+                <summary>¿Es seguro realizar ese tipo de actividades?</summary>
+                <p>
+                    Pues no, sin embargo, por algo los guerreros se convierten en guerreros, ya que
+                    no existe una real amenaza contra ellos que pueda eliminar su espíritu aventurero.
+                </p>
+            </details>
+        </section>
+
+    </body>
+</html>

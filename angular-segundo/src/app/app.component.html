@@ -1,0 +1,17 @@
+<app-header />
+
+<section #observables>
+    <div style="width: 100%;">
+        <button (click)="cambiarObservable('N')">OBSERVABLE NORMAL</button>
+        <button (click)="cambiarObservable('H')">OBSERVABLE HOT/COLD</button>
+    </div>
+</section>
+
+<section>
+    <div style="border: 2px solid rgb(43, 102, 43); width: 100%;">
+        <app-normal *ngIf="componentes.normal"/>
+        <app-hot-cold *ngIf="componentes.hotcold"/>
+    </div>
+</section>
+
+<router-outlet />

@@ -1,0 +1,104 @@
+DOCKER
+================================================================================================
+================================================================================================
+
+IMAGEN: 
+La imagen es aquello (archivo) que se puede distribuir.
+
+CONTENEDOR: 
+Es la "instancia" que se ejecuta de la imagen. De una imagen se pueden correr varios
+contenedores
+
+
+
+################################################################################################
+################################################################################################
+
+COMANDOS
+================================================================================================
+================================================================================================
+
+run => crea y ejecuta un nuevo contenedor, puede incluso hacer un pull.
+create => crea un nuevo contenedor, nada más
+start => Se utiliza para correr el contenedor.
+stop => simplemente deja de ejecutar al contenedor.
+*Si una imagen se actualiza, los contenedores ya creados no lo hacen.
+
+
+
+
+"-it" (el "i" permite una comunicación entre el equipo y el contenedor)
+	  (el "t" permite abrir y agregar una sesión en bash a nuestro terminal)
+-d => arranca el contenedor en modo detach, es decir, el contenedor continúa ejecutándose aún en segundo plano.
+
+
+docker create --name "nombre del contenedor" "tipo de imagen" => crea un nuevo contenedor con el nombre dado
+docker rm "nombre del contenedor" => elimina el contenedor
+docker images => Muestra una lista de todas las imágenes descargadas.
+docker ps => Muestra una lista de todos los contenedores corriendo.
+docker ps -a => Muestra una lista de todos los contenedores creados.
+docker run -it --name "nombre del contenedor" -p "puerto del host":"puerto del contenedor" "código de la imagen" => Procede a crear un contenedor.
+docker run -d --name "nombre del contenedor" --mount src="nombre del volumen",dst=/"ruta de la carpeta del contenedor" "código de la imagen" => Procede a crear un contenedor con un volumen
+docker build -t "nombre de la nueva imagen"	"ruta del dockerfile"			=> crea una imagen a partir del "Dockerfile"
+
+
+docker cp "inicio"(id-container:/'folder') "destino"('ruta')
+Ejemplo: docker cp dist/. fafcf199a2307d466c843c2876551347e28026502f09b0d321a0eb4f9af40d5f:/app
+
+
+--PARA CREAR NETWORKS
+docker network create "nombre" --driver bridge
+Ejemplo: docker network create puenteBomba --driver bridge
+
+docker inspect "id o nombre"  											--PARA INSPECCIONAR EL 'NETWORK'
+docker network connect "nombre del network" "nombre del contenedor"		--PARA AGREGAR UN CONTENEDOR AL 'NETWORK'
+docker network ls														--LISTA TODAS LAS REDES
+docker logs "nombre del contenedor"										--MUESTRA EL LOG DE  UN CONTENEDOR
+docker exec -it "nombre del contenedor"	bash							--ENTRA A LA CONSOLA DEL CONTENEDOR
+docker volume ls														--PARA LISTAR LOS VOLÚMENES
+docker volume create "nombre del volumen"								--CREA UN NUEVO VOLUMEN
+
+
+--PARA EL ALPAIN
+apk add npm
+npm install pm2 -g
+pm2 completion install
+mkdir app
+
+
+--PARA EL NGINX EN EL ALPAIN
+nginx -t							--PARA CHEQUEAR SI LA CONFIGURACIÓN DEL SERVIDOR ESTÁ OK
+nginx -s stop
+nginx -s quit
+nginx -s reopen
+nginx -s reload
+
+
+--PARA EL SERVICIO CON PM2 (UNA VEZ COPIADO CON TODOS LOS ARCHIVOS)
+pm2 start mascota.js
+pm2 startup             --PARA CONSERVAR LOS PROCESOS DEL PM2
+pm2 save				--PARA GUARDAR LA CONFIGURACIÓN
+pm2 update				--REALIZA UN REFRESH A LOS ID
+
+
+docker-compose build				--Se encarga de construir las imagenes y otras cosillas. Supuestamente el "up" también lo hace.
+docker-compose up	--build				--Esto ejecuta todo lo incluido en el archivo "compose"
+docker-compose -f "archivo" up		--Para arrancar el docker a partir de un archivo con nombre diferente a "docker-compose.yml"
+docker-compose -p "nombre" up  		--Para arrancar el docker compose y darle un nombre al grupo
+
+docker history [REPO/IMAGE] | wc -l   --Ayuda a ver el número de "layers"
+
+
+docker run -it --name "chipMongoDev" -d -p 8100:27017 --mount src=chipMongoDev,dst=/data/db mongo
+docker run --name "nombre" --mount type=bind,src=D:\Docker\prenhada,dst=/home -d -t ubuntu   --Crea un contenedor 
+
+
+npx nodemon 			--EL NPX ES UN PAQUETE QUE PERMITE CORRER PAQUETES DENTRO DEL NODE_MODULES
+
+
+https://www.google.com/maps/@-12.2167027,-76.9385718,3a,75y,86.01h,86.39t/data=!3m6!1e1!3m4!1sdMNHoG7o5cCyJHLjNEjN4w!2e0!7i13312!8i6656?entry=ttu
+
+
+OCI
+or4colC4r4c0$
+

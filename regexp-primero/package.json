@@ -1,0 +1,18 @@
+{
+  "name": "regexp-primero",
+  "version": "1.0.0",
+  "description": "Mini cursito de REGEXP",
+  "main": "01-introduccion.js",
+  "scripts": {
+    "intro": "node 01-introduccion.js",
+    "letra": "node 02-letras.js",
+    "numero": "node 03-numeros.js",
+    "delimitai": "node 04-delimitadores-I.js",
+    "delimitaii": "node 05-delimitadores-II.js",
+    "exameni": "node 06-examen-I.js",
+    "negacion": "node 07-negacion.js",
+    "examenii": "node 08-examen-II.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

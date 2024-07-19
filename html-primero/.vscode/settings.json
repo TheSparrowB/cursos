@@ -1,0 +1,23 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.activeBackground": "#ef885a",
+        "activityBar.background": "#ef885a",
+        "activityBar.foreground": "#15202b",
+        "activityBar.inactiveForeground": "#15202b99",
+        "activityBarBadge.background": "#a8f7c0",
+        "activityBarBadge.foreground": "#15202b",
+        "commandCenter.border": "#15202b99",
+        "sash.hoverBorder": "#ef885a",
+        "statusBar.background": "#eb672b",
+        "statusBar.foreground": "#15202b",
+        "statusBarItem.hoverBackground": "#cf4e14",
+        "statusBarItem.remoteBackground": "#eb672b",
+        "statusBarItem.remoteForeground": "#15202b",
+        "titleBar.activeBackground": "#eb672b",
+        "titleBar.activeForeground": "#15202b",
+        "titleBar.inactiveBackground": "#eb672b99",
+        "titleBar.inactiveForeground": "#15202b99"
+    },
+    "peacock.color": "#EB672B",
+    "CodeGPT.apiKey": "Ollama"
+}

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width">
+        <link rel="icon" type="image/png" href="/assets/img/png/nice.png">
+        
+        <title>MULTIMEDIA</title>
+        <meta name="description" content="En esta página veremos algunas configuraciones de material multimedia.">
+    
+        <style>
+            body {
+                background: #f0f0f0;
+            }
+        </style>
+        <link rel="stylesheet" href="/assets/css/prism/prism.css" data-noprefix />
+    </head>
+
+
+    <body>
+
+        <audio controls src="assets/audio/High Voltage.mp3"></audio>
+        <video controls autoplay muted loop 
+        poster="assets/img/chinchilla.jpg"
+        src="assets/video/chinchilla.mp4"></video>
+
+
+        <!-- CREAMOS UN DIV MUY GRANDE -->
+        <div style="height: 1500px;"></div>
+
+        <!-- LA PROPIEDAD "loading=lazy" FUNCIONA DE TAL FORMA QUE CARGA EL RECURSO SOLO CUANDO SE NECESITA
+        POR EJEMPLO, EN ESTE CASO, SI NOSOTROS BAJAMOS CON EL SCROLL HASTA EL FINAL, SE VERÁ
+        QUE LA SIGUIENTE IMAGEN RECIÉN PROCEDERÁ A CARGARSE (MIENTRAS ESTA AÚN NO EXISTA EN CACHÉ). 
+        ESTA PROPIEDAD TAMBIÉN HACE QUE EL RECURSO SE PUEDA CARGAR AL FINAL, ESTO CON EL OBJETIVO DE USAR
+        LA RED PARA PODER CARGAR LO MÁS "IMPORTANTE" CON MAYOR RAPIDEZ. -->
+        <img style="width: 100%; aspect-ratio: 1000/563;" src="https://drive.google.com/thumbnail?id=1slmSIFBcSFlST7Y40ieZFo7RdhamrW0K&sz=w1000" 
+            loading="lazy"
+            alt="UNA PAREJITA DE HIJUESANCHAS">
+
+
+
+        <iframe width="560" height="315"
+            style="width: 100%; aspect-ratio: 16/9;"
+            src="https://www.youtube.com/embed/WuLDGOWUb6M?si=aHgG0ImlwR7Ut1Xa"
+            title="YouTube video player" frameborder="0" 
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            referrerpolicy="strict-origin-when-cross-origin"
+            allowfullscreen>
+        </iframe>
+    </body>
+</html>

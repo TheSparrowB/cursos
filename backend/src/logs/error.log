@@ -1,0 +1,536 @@
+[2024-06-06 17:01:07] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:01:07] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:01:07] error: FIN
+
+[2024-06-06 17:01:17] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:01:17] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:01:17] error: FIN
+
+[2024-06-06 17:01:18] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:01:18] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:01:18] error: FIN
+
+[2024-06-06 17:01:18] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:01:18] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:01:18] error: FIN
+
+[2024-06-06 17:01:19] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:01:19] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:01:19] error: FIN
+
+[2024-06-06 17:01:20] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:01:20] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:01:20] error: FIN
+
+[2024-06-06 17:01:21] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:01:21] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:01:21] error: FIN
+
+[2024-06-06 17:01:21] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:01:21] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:01:21] error: FIN
+
+[2024-06-06 17:01:22] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:01:22] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:01:22] error: FIN
+
+[2024-06-06 17:01:22] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:01:22] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:01:22] error: FIN
+
+[2024-06-06 17:01:23] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:01:23] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:01:23] error: FIN
+
+[2024-06-06 17:01:24] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:01:24] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:01:24] error: FIN
+
+[2024-06-06 17:01:24] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:01:24] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:01:24] error: FIN
+
+[2024-06-06 17:01:25] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:01:25] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:01:25] error: FIN
+
+[2024-06-06 17:01:25] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:01:25] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:01:25] error: FIN
+
+[2024-06-06 17:01:26] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:01:26] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:01:26] error: FIN
+
+[2024-06-06 17:01:26] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:01:26] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:01:26] error: FIN
+
+[2024-06-06 17:01:26] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:01:26] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:01:26] error: FIN
+
+[2024-06-06 17:01:28] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:01:28] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:01:28] error: FIN
+
+[2024-06-06 17:01:29] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:01:29] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:01:29] error: FIN
+
+[2024-06-06 17:01:30] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:01:30] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:01:30] error: FIN
+
+[2024-06-06 17:01:31] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:01:31] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:01:31] error: FIN
+
+[2024-06-06 17:01:31] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:01:31] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:01:31] error: FIN
+
+[2024-06-06 17:01:32] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:01:32] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:01:32] error: FIN
+
+[2024-06-06 17:01:33] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:01:33] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:01:33] error: FIN
+
+[2024-06-06 17:01:33] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:01:33] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:01:33] error: FIN
+
+[2024-06-06 17:01:34] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:01:34] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:01:34] error: FIN
+
+[2024-06-06 17:01:34] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:01:34] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:01:34] error: FIN
+
+[2024-06-06 17:01:35] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:01:35] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:01:35] error: FIN
+
+[2024-06-06 17:01:36] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:01:36] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:01:36] error: FIN
+
+[2024-06-06 17:01:36] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:01:36] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:01:36] error: FIN
+
+[2024-06-06 17:01:37] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:01:37] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:01:37] error: FIN
+
+[2024-06-06 17:01:38] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:01:38] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:01:38] error: FIN
+
+[2024-06-06 17:01:38] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:01:38] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:01:38] error: FIN
+
+[2024-06-06 17:04:35] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:04:35] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:04:35] error: FIN
+
+[2024-06-06 17:04:36] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:04:36] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:04:36] error: FIN
+
+[2024-06-06 17:04:37] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:04:37] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:04:37] error: FIN
+
+[2024-06-06 17:04:37] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:04:37] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:04:37] error: FIN
+
+[2024-06-06 17:04:38] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:04:38] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:04:38] error: FIN
+
+[2024-06-06 17:04:38] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:04:38] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:04:38] error: FIN
+
+[2024-06-06 17:04:39] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:04:39] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:04:39] error: FIN
+
+[2024-06-06 17:04:39] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:04:39] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:04:39] error: FIN
+
+[2024-06-06 17:04:40] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:04:40] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:04:40] error: FIN
+
+[2024-06-06 17:04:40] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:04:40] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:04:40] error: FIN
+
+[2024-06-06 17:04:41] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:04:41] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:04:41] error: FIN
+
+[2024-06-06 17:04:41] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:04:41] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:04:41] error: FIN
+
+[2024-06-06 17:04:41] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:04:41] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:04:41] error: FIN
+
+[2024-06-06 17:04:42] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:04:42] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:04:42] error: FIN
+
+[2024-06-06 17:04:42] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:04:42] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:04:42] error: FIN
+
+[2024-06-06 17:04:43] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:04:43] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:04:43] error: FIN
+
+[2024-06-06 17:04:45] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:04:45] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:04:45] error: FIN
+
+[2024-06-06 17:04:45] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:04:45] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:04:45] error: FIN
+
+[2024-06-06 17:04:47] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:04:47] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:04:47] error: FIN
+
+[2024-06-06 17:04:47] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:04:47] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:04:47] error: FIN
+
+[2024-06-06 17:04:48] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:04:48] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:04:48] error: FIN
+
+[2024-06-06 17:04:59] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:04:59] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:04:59] error: FIN
+
+[2024-06-06 17:05:00] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:05:00] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:05:00] error: FIN
+
+[2024-06-06 17:05:00] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:05:00] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:05:00] error: FIN
+
+[2024-06-06 17:05:01] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:05:01] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:05:01] error: FIN
+
+[2024-06-06 17:15:43] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-06 17:15:43] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-06 17:15:43] error: FIN
+
+[2024-06-11 15:56:18] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: nid_tipo_1 dup key: { nid_tipo: 1 }
+[2024-06-11 15:56:18] error: --PARAMETROS: {"nid_tipo":1,"txt_tipo":"Lagartija","txt_grupo":"Reptil"}
+[2024-06-11 15:56:18] error: FIN
+
+[2024-06-11 16:08:58] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: txt_tipo_1 dup key: { txt_tipo: "Perro" }
+[2024-06-11 16:08:58] error: --PARAMETROS: {"txt_tipo":"Perro","txt_grupo":"Mamífero"}
+[2024-06-11 16:08:58] error: FIN
+
+[2024-06-11 16:10:33] error: Error al gestionar un tipo:
+MongoServerError: E11000 duplicate key error collection: armada.tipo index: txt_tipo_1 dup key: { txt_tipo: "Perro" }
+[2024-06-11 16:10:33] error: --PARAMETROS: {"txt_tipo":"Perro","txt_grupo":"Mamífero"}
+[2024-06-11 16:10:33] error: FIN
+
+[2024-06-11 16:44:50] error: Error al gestionar un tipo:
+El valor de la propiedad "txt_tipo" ya existe.
+[2024-06-11 16:44:50] error: --PARAMETROS: {"txt_tipo":"Perro","txt_grupo":"Mamífero"}
+[2024-06-11 16:44:50] error: FIN
+
+[2024-06-11 16:59:03] error: Error al gestionar un tipo:
+TypeError: Cannot convert undefined or null to object
+[2024-06-11 16:59:03] error: --PARAMETROS: {"txt_tipo":"Perro","txt_grupo":"Mamífero"}
+[2024-06-11 16:59:03] error: FIN
+
+[2024-06-11 16:59:36] error: Error al gestionar un tipo:
+TypeError: Cannot convert undefined or null to object
+[2024-06-11 16:59:36] error: --PARAMETROS: {"txt_tipo":"Perro","txt_grupo":"Mamífero"}
+[2024-06-11 16:59:36] error: FIN
+
+[2024-06-11 17:00:20] error: Error al gestionar un tipo:
+TypeError: Cannot convert undefined or null to object
+[2024-06-11 17:00:20] error: --PARAMETROS: {"txt_tipo":"Perro","txt_grupo":"Mamífero"}
+[2024-06-11 17:00:20] error: FIN
+
+[2024-06-11 17:00:50] error: Error al gestionar un tipo:
+TypeError: Cannot convert undefined or null to object
+[2024-06-11 17:00:50] error: --PARAMETROS: {"txt_tipo":"Perro","txt_grupo":"Mamífero"}
+[2024-06-11 17:00:50] error: FIN
+
+[2024-06-11 17:01:33] error: Error al gestionar un tipo:
+El tipo 'Perro' ya existe.
+[2024-06-11 17:01:33] error: --PARAMETROS: {"txt_tipo":"Perro","txt_grupo":"Mamífero"}
+[2024-06-11 17:01:33] error: FIN
+
+[2024-06-11 17:01:37] error: Error al gestionar un tipo:
+El tipo 'Perro' ya existe.
+[2024-06-11 17:01:37] error: --PARAMETROS: {"txt_tipo":"Perro","txt_grupo":"Mamífero"}
+[2024-06-11 17:01:37] error: FIN
+
+[2024-06-11 17:15:40] error: Error al cerrar la conexión mongoose:
+ TypeError: mangostaCliente.connection.disconnect is not a function
+ FIN
+
+[2024-06-11 17:20:08] error: Error al gestionar un tipo:
+El tipo 'Perro' ya existe.
+[2024-06-11 17:20:08] error: --PARAMETROS: {"txt_tipo":"Perro","txt_grupo":"Mamífero"}
+[2024-06-11 17:20:08] error: FIN
+
+[2024-06-11 17:20:56] error: Error al gestionar un tipo:
+El tipo 'Perro' ya existe.
+[2024-06-11 17:20:56] error: --PARAMETROS: {"txt_tipo":"Perro","txt_grupo":"Mamífero"}
+[2024-06-11 17:20:56] error: FIN
+
+[2024-06-11 17:21:11] error: Error al gestionar un tipo:
+El tipo 'Perro' ya existe.
+[2024-06-11 17:21:11] error: --PARAMETROS: {"txt_tipo":"Perro","txt_grupo":"Mamífero"}
+[2024-06-11 17:21:11] error: FIN
+
+[2024-06-11 17:23:51] error: Error al listar los tipos:
+TypeError: tipoParametro.find is not a function
+[2024-06-11 17:23:51] error: FIN
+
+[2024-06-11 17:25:04] error: Error al listar los tipos:
+TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'MongoClient'
+    
+     property 's' -> object with constructor 'Object'
+    
+     property 'sessionPool' -> object with constructor 'ServerSessionPool'
+    --- property 'client' closes the circle
+[2024-06-11 17:25:04] error: FIN
+
+[2024-06-11 17:27:10] error: Error al listar los tipos:
+TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'MongoClient'
+    
+     property 's' -> object with constructor 'Object'
+    
+     property 'sessionPool' -> object with constructor 'ServerSessionPool'
+    --- property 'client' closes the circle
+[2024-06-11 17:27:10] error: FIN
+
+[2024-06-12 16:18:34] error: Error al obtener un tipo:
+TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'MongoClient'
+    
+     property 's' -> object with constructor 'Object'
+    
+     property 'sessionPool' -> object with constructor 'ServerSessionPool'
+    --- property 'client' closes the circle
+[2024-06-12 16:18:34] error: FIN
+
+[2024-06-12 16:18:37] error: Error al obtener un tipo:
+TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'MongoClient'
+    
+     property 's' -> object with constructor 'Object'
+    
+     property 'sessionPool' -> object with constructor 'ServerSessionPool'
+    --- property 'client' closes the circle
+[2024-06-12 16:18:37] error: FIN
+
+[2024-06-12 16:19:00] error: Error al obtener un tipo:
+CastError: Cast to ObjectId failed for value "" (type string) at path "_id" for model "Tipo"
+[2024-06-12 16:19:00] error: FIN
+
+[2024-06-12 16:19:46] error: Error al obtener un tipo:
+La operación no se pudo completar porque los parámetros no están completos.
+[2024-06-12 16:19:46] error: FIN
+
+[2024-06-12 16:19:58] error: Error al obtener un tipo:
+CastError: Cast to ObjectId failed for value "EEE" (type string) at path "_id" for model "Tipo"
+[2024-06-12 16:19:58] error: --PARAMETROS: {"id_tipo":"EEE"}
+[2024-06-12 16:19:58] error: FIN
+
+[2024-06-12 16:21:09] error: Error al obtener un tipo:
+El tipo con id 6668ba04cc05034beaf10783 no existe.
+[2024-06-12 16:21:09] error: --PARAMETROS: {"id_tipo":"6668ba04cc05034beaf10783"}
+[2024-06-12 16:21:09] error: FIN
+
+[2024-06-12 16:21:18] error: Error al obtener un tipo:
+CastError: Cast to ObjectId failed for value "e" (type string) at path "_id" for model "Tipo"
+[2024-06-12 16:21:18] error: --PARAMETROS: {"id_tipo":"e"}
+[2024-06-12 16:21:18] error: FIN
+
+[2024-06-12 16:23:31] error: Error al obtener un tipo:
+El id no presenta un formato adecuado.
+[2024-06-12 16:23:31] error: --PARAMETROS: {"id_tipo":"e"}
+[2024-06-12 16:23:31] error: FIN
+
+[2024-06-12 16:23:32] error: Error al obtener un tipo:
+El id no presenta un formato adecuado.
+[2024-06-12 16:23:32] error: --PARAMETROS: {"id_tipo":"e"}
+[2024-06-12 16:23:32] error: FIN
+
+[2024-06-12 16:23:46] error: Error al obtener un tipo:
+El id no presenta un formato adecuado.
+[2024-06-12 16:23:46] error: --PARAMETROS: {"id_tipo":"6668bcb843e09e6cab46352"}
+[2024-06-12 16:23:46] error: FIN
+
+[2024-06-12 16:23:50] error: Error al obtener un tipo:
+El id no presenta un formato adecuado.
+[2024-06-12 16:23:50] error: --PARAMETROS: {"id_tipo":"6668bcb843e09e6cab463u52"}
+[2024-06-12 16:23:50] error: FIN
+
+[2024-06-12 16:24:25] error: Error al obtener un tipo:
+El tipo con id 6668bcb843e09e6cab463e52 no existe.
+[2024-06-12 16:24:25] error: --PARAMETROS: {"id_tipo":"6668bcb843e09e6cab463e52"}
+[2024-06-12 16:24:25] error: FIN
+
+[2024-06-12 16:24:31] error: Error al obtener un tipo:
+El id no presenta un formato adecuado.
+[2024-06-12 16:24:31] error: --PARAMETROS: {"id_tipo":"6668bcb843e09e6cab463u52"}
+[2024-06-12 16:24:31] error: FIN
+
+[2024-06-18 09:15:16] error: Error al actualizar un tipo:
+El id no presenta un formato adecuado.
+[2024-06-18 09:15:16] error: --PARAMETROS: {"nid_tipo":"66609a46e0ba058875676c4","txt_tipo":"Humanoxxx","txt_grupo":"Mamífero"}
+[2024-06-18 09:15:16] error: FIN
+
+[2024-06-18 09:36:34] error: Error al actualizar un tipo:
+No se ha encontrado un tipo con id "66609a46e0ba058875676e49"
+[2024-06-18 09:36:34] error: --PARAMETROS: {"nid_tipo":"66609a46e0ba058875676e49","txt_tipo":"Humano","txt_grupo":"Mamífero"}
+[2024-06-18 09:36:34] error: FIN
+
+[2024-06-18 09:36:41] error: Error al actualizar un tipo:
+No se ha encontrado un tipo con id "66609a46e0ba058875676e49"
+[2024-06-18 09:36:41] error: --PARAMETROS: {"nid_tipo":"66609a46e0ba058875676e49","txt_tipo":"Humano","txt_grupo":"Mamífero"}
+[2024-06-18 09:36:41] error: FIN
+
+[2024-06-18 09:38:30] error: Error al actualizar un tipo:
+No se ha encontrado un tipo con id "66609a46e0ba058875676e49"
+[2024-06-18 09:38:30] error: --PARAMETROS: {"nid_tipo":"66609a46e0ba058875676e49","txt_tipo":"Humano","txt_grupo":"Mamífero"}
+[2024-06-18 09:38:30] error: FIN
+
+[2024-06-18 09:38:31] error: Error al actualizar un tipo:
+No se ha encontrado un tipo con id "66609a46e0ba058875676e49"
+[2024-06-18 09:38:31] error: --PARAMETROS: {"nid_tipo":"66609a46e0ba058875676e49","txt_tipo":"Humano","txt_grupo":"Mamífero"}
+[2024-06-18 09:38:31] error: FIN
+
+[2024-06-18 09:38:44] error: Error al actualizar un tipo:
+No se ha encontrado un tipo con id "66609a46e0ba058875676e49"
+[2024-06-18 09:38:44] error: --PARAMETROS: {"nid_tipo":"66609a46e0ba058875676e49","txt_tipo":"Humano","txt_grupo":"Mamífero"}
+[2024-06-18 09:38:44] error: FIN
+
+[2024-06-18 09:38:49] error: Error al actualizar un tipo:
+TypeError: res.status is not a function
+[2024-06-18 09:38:49] error: --PARAMETROS: {"nid_tipo":"66609a46e0ba058875676c49","txt_tipo":"Humano","txt_grupo":"Mamífero"}
+[2024-06-18 09:38:49] error: FIN
+
+[2024-06-18 09:41:09] error: Error al actualizar un tipo:
+No se ha encontrado un tipo con id "66609a46e0ba058875676c99"
+[2024-06-18 09:41:09] error: --PARAMETROS: {"nid_tipo":"66609a46e0ba058875676c99","txt_tipo":"Humanox","txt_grupo":"Mamífero"}
+[2024-06-18 09:41:09] error: FIN
+
+[2024-06-18 09:41:16] error: Error al actualizar un tipo:
+No se ha encontrado un tipo con id "66609a46e0ba058875676c99"
+[2024-06-18 09:41:16] error: --PARAMETROS: {"nid_tipo":"66609a46e0ba058875676c99","txt_tipo":"Humanox","txt_grupo":"Mamífero"}
+[2024-06-18 09:41:16] error: FIN
+
+[2024-06-18 10:07:58] error: Error al eliminar un tipo:
+No se ha encontrado un tipo con id "6668bcb843e09e6cab463452".
+[2024-06-18 10:07:58] error: --PARAMETROS: {"nid_tipo":"6668bcb843e09e6cab463452"}
+[2024-06-18 10:07:58] error: FIN
+
+[2024-06-18 10:12:59] error: Error al eliminar un tipo:
+No se ha encontrado un tipo con id "6671a369d63b1d8c345c02b5".
+[2024-06-18 10:12:59] error: --PARAMETROS: {"nid_tipo":"6671a369d63b1d8c345c02b5"}
+[2024-06-18 10:12:59] error: FIN
+
+[2024-06-18 10:13:02] error: Error al eliminar un tipo:
+No se ha encontrado un tipo con id "6671a369d63b1d8c345c02b5".
+[2024-06-18 10:13:02] error: --PARAMETROS: {"nid_tipo":"6671a369d63b1d8c345c02b5"}
+[2024-06-18 10:13:02] error: FIN
+
+[2024-06-18 10:13:03] error: Error al eliminar un tipo:
+No se ha encontrado un tipo con id "6671a369d63b1d8c345c02b5".
+[2024-06-18 10:13:03] error: --PARAMETROS: {"nid_tipo":"6671a369d63b1d8c345c02b5"}
+[2024-06-18 10:13:03] error: FIN
+
+[2024-06-18 10:13:03] error: Error al eliminar un tipo:
+No se ha encontrado un tipo con id "6671a369d63b1d8c345c02b5".
+[2024-06-18 10:13:03] error: --PARAMETROS: {"nid_tipo":"6671a369d63b1d8c345c02b5"}
+[2024-06-18 10:13:03] error: FIN
+

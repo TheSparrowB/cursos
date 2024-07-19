@@ -1,0 +1,387 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>INICIO</title>
+        <link rel="icon" type="image/png" href="/assets/img/png/nice.png">
+
+        <link rel="stylesheet" href="/assets/css/prism/prism.css" data-noprefix />
+
+
+        <style>
+            .ferret-u-container {
+                display: flex;
+                width: 100%;
+                background-color: #CED1C0;
+                font-size: 14px;
+                font-weight: bold;
+                padding: 5px;
+            }
+
+            .ferret-u-element {
+                padding: 5px 4px;
+                display: inline-block;
+                height: 120px;
+                width: 120px;
+                margin: 2px 10px;
+            }
+
+            .ferret-u-farmer {
+                border: 1px solid #B08A09;
+                background-color: #DCAC0A;
+                border-top-left-radius: 10px;
+                border-top-right-radius: 30px;
+                border-bottom-left-radius: 30px;
+                border-bottom-right-radius: 10px;
+                text-align: left;
+            }
+
+            .ferret-u-thug {
+                border: 1px solid #0068BA;
+                background-color: #0091D5;
+                border-top-left-radius: 30px;
+                border-top-right-radius: 10px;
+                border-bottom-left-radius: 10px;
+                border-bottom-right-radius: 30px;
+                text-align: right;
+            }
+        </style>
+    </head>
+
+    <body>
+        <section>
+            <nav>
+                <a href="./estructura.html">Estructura</a>
+                <a href="./semantico.html">HTML Semántico</a>
+            </nav>
+        </section>
+
+        <!-- ESTE ARCHIVO SE LLAMA "index.html" PUESTO QUE ES LA PÁGINA QUE SE CARGA "POR DEFECTO". -->
+        <section>
+            <header>
+                <h1>HTML</h1>
+            </header>
+
+            <p>
+                Cada vez que navegamos por las distintas páginas WEB mediante un navegador, este solicita
+                a los distintos servidores diversos documentos los cuales son "leídos" o "traducidos" para
+                que nosotros podamos interactuar con el sistema.
+                Uno de esos documentos que los navegadores leen son aquellos que están escritos en <strong>HTML</strong>
+                siglas las cuales significan "HyperText Markup Language". El cual es un lenguaje parecido al XML.
+                Este lenguaje está basado en etiquetas, las cuales permiten incluir diversos elementos en la página
+                web.
+            </p>
+        </section>
+        
+        <hr>
+
+        <section>
+            <header>
+                <h2>I) Etiquetas</h2>
+            </header>
+
+            <p>
+                Las etiquetas son elementos los cuales pueden representar un elemento en la página web. Cada
+                uno de estos elementos tiene una función y/o forma de presentar información. Dependiendo de
+                la etiqueta, estas pueden presentar las siguientes estructuras:
+            </p>
+
+<pre>
+<code class="language-html">
+&lt;div style="text-align: center"&gt;Contenido del div&lt;/div&gt;
+- Esta es una etiqueta "div". Y presenta una etiqueta de apertura y otra de cierre
+
+&lt;img alt="Imagen de Ejemplo" src="/assets/img/ejemplo.jpg" /&gt;
+- Esta es una etiqueta "img", a diferencia del "div", esta no presenta una etiqueta de cierre.
+
+&lt;br&gt; 
+- La etiqueta "br" podría tener un slash (/) al final o simplemente podría omitirse.
+
+&lt;p style="font-size: 14px;"&gt;Este es un texto &lt;strong&gt;fuerte&lt;/strong&gt; de prueba&lt;/p&gt;
+- Las etiquetas también pueden anidar otras etiquetas. En este caso la etiqueta "p" tiene dentro una etiqueta "strong".
+</code>
+</pre>
+
+            <p>
+                Hay que tomar en cuenta que el HTML solo debe de utilizarse para enmaquetar
+                la información. Para agregar efectos visuales o estilos a un elemento es necesario usar CSS.
+                A este "correcto" uso del HTML se le denomina "semántico".
+                <br>
+                La semántica es necesaria para las páginas web debido a que son de mayor entendimiento
+                tanto para seres humanos (como desarrolladores) y máquinas. Un beneficio de ser entendido
+                por máquinas es que mejora la indexación de la página en los buscadores.
+            </p>
+
+            <br>
+
+            <section>
+                <header>
+                    <h3>I.I) Estructura</h3>
+                </header>
+
+                <p>
+                    Tal como se ha visto en la sección anterior de código, las etiquetas pueden llevar distintas
+                    estructuras. Sin embargo, la más común es la siguiente:
+                </p>
+
+<pre data-line="1:">
+    <code class="language-html">
+&lt;etiqueta-de-apertura atributo1="valor" atributo2="valor" atributoN="valor"&gt;Contenido&lt;/etiqueta-de-cierre&gt;
+
+- La mayoría de elementos requiere de una etiqueta de apertura y otra de cierre. La etiqueta de cierre se diferencia
+  de la de apertura debido a que lleva un slash (/) al comienzo de su nombre.
+
+* NOTA: La etiqueta de apertura debe de tener el mismo valor de la etiqueta de cierre.
+    </code>
+</pre>
+            </section>
+
+            <br>
+
+            <section>
+                <header>
+                    <h3>I.II) Atributos</h3>
+                </header>
+                <p>
+                    Los atributos son aquellas palabras que forman parte del elemento 
+                    y definen ciertos comportamientos sobre este <strong>(algo muy básico, no como en javascript)</strong>.
+                    <br/>
+                    Todos los atributos se incluyen dentro de la etiqueta de apertura y estos pueden usarse con 
+                    comillas ("") o sin comillas. En este último caso, solo se podrán omitir las comillas si el 
+                    valor de los atributos no tiene espacios en blanco.
+                    <br/>
+                    Con respecto a las comillas, cabe destacar que los atributos también pueden llevar comillas simples (''),
+                    sin embargo, es recomendable usar comillas dobles. También es recomendable incluir los atributos en "minúsculas", 
+                    por lo que, se debe evitar el uso de las mayúsculas.
+                </p>
+
+<pre>
+    <code class="language-html">
+&lt;img width=150px title="Droopy" alt='Droopy mirando su laptop' src=/assets/img/droopy.jpg /&gt;
+&lt;img width="150px" title=AAAAAA! alt="Un dibujo indescriptible e imposible de ver por un humano" src="/assets/img/cthulluhbarakg.jpg"&gt;
+&lt;img width='150px' title="Dirty Hands" alt='Una exploradora escondiendo algo' src="/assets/img/explorer.jpg"&gt;
+&lt;img width=150px title='Pownee' alt="Una pony caminando" src='/assets/img/pony.jpg' /&gt;
+
+- En este bloque de código se presentan cuatro elementos "img" con algunos de sus atributos incluidos.
+  Nótese que generalmente cada valor del atributo debe de estar entre comillas, sin embargo, cuando su valor
+  no contiene espacios en blanco, puede ir sin comillas.
+    </code>
+</pre>
+
+                <fieldset>
+                    <legend>Renderizado</legend>
+
+                    <div style="width: 100%;">
+                        <img width=150px title="Droopy" alt='Droopy mirando su laptop' src=/assets/img/droopy.jpg/>
+                        <img width="150px" title=AAAAAA! alt="Dibujo indescriptible e imposible de ver por un ser humano" src="/assets/img/cthulluhbarakg.jpg">
+                        <img width='150px' title="Dirty Hands" alt='Una exploradora escondiendo algo' src="/assets/img/explorer.jpg">
+                        <img width=150px title='Pownee' alt="Una pony caminando" src='/assets/img/pony.jpg'/>
+                    </div>
+                </fieldset>
+
+                <br>
+
+                <section>
+                    <header>
+                        <h4>I.II.I) Atributos Booleanos</h4>
+                    </header>
+                    <p>
+                        Son atributos los cuales tan solo se incluyan en el elemento, sin importar
+                        el valor que se les asigne, se toman en cuenta.
+                    </p>
+
+<pre>
+    <code class="language-html">
+&lt;img width=150px title="Llorona01" alt="Llorando" src=/assets/img/melt/melt1.jpg /&gt;
+&lt;img hidden width=150px title="Llorona02" alt="Llorando" src=/assets/img/melt/melt2.jpg /&gt;
+&lt;img width=150px title="Llorona03" alt="Llorando" src=/assets/img/melt/melt3.jpg /&gt;
+&lt;img hidden=false width=150px title="Llorona04" alt="Llorando" src=/assets/img/melt/melt4.jpg /&gt;
+&lt;img hidden=lmao!!! width=150px title="Llorona05" alt="Llorando" src=/assets/img/melt/melt5.jpg /&gt;
+
+- De las 5 imágenes, solo 2 se mostrarán puesto que no incluyen el atributo "hidden" y, como este es booleano,
+    no importa que valor se les asigne, el simple hecho de incluirlos ya se aplican en el elemento.
+    </code>
+</pre>
+    
+                    <fieldset>
+                        <legend>Renderizado</legend>
+                        <div style="width: 100%;">
+                            <img width=150px title="Llorona01" alt="Llorando" src=/assets/img/melt/melt1.jpg />
+                            <img hidden width=150px title="Llorona02" alt="Llorando" src=/assets/img/melt/melt2.jpg />
+                            <img width=150px title="Llorona03" alt="Llorando" src=/assets/img/melt/melt3.jpg />
+                            <img hidden=false width=150px title="Llorona04" alt="Llorando" src=/assets/img/melt/melt4.jpg />
+                            <img hidden=lmao!!! width=150px title="Llorona05" alt="Llorando" src=/assets/img/melt/melt5.jpg />
+                        </div>
+                    </fieldset>
+                </section>
+
+                <br>
+
+                <section>
+                    <header>
+                        <h4>I.II.II) Atributos Identificadores</h4>
+                    </header>
+                    <p>
+                        Son atributos que ayudan a identificar ciertos elementos.
+                        Estos son: <strong>"id"</strong> y <strong>"class"</strong>.
+                        <br/>
+                        Si un elemento usa el atributo "id", este debe de ser único en todo
+                        el DOM (Document Object Model). Adicionalmente, los id no deben de empezar con números, pero sí pueden contenerlos. 
+                        Tampoco deben de contener caracteres especiales.
+                        <br>
+                        Hay que tomar en cuenta que por cada id agregado, se genera un nuevo objeto dentro del elemento
+                        "window", lo cual significa que se consume más memoria.
+                        Por lo que es recomendable usar <strong>"class"</strong> en vez de <strong>"id"</strong>, sin embargo,
+                        solo en el caso de que se quiera manipular un elemento específico mediante JS, entonces
+                        allí sí sería necesario utilizar un <strong>"id"</strong>.
+                        <br>
+                        A continuación, en el siguiente bloque de código se muestran algunas imágenes que se valen del uso de los atributos "id" y "class".
+                    </p>
+
+<pre>
+    <code class="language-html">
+&lt;img id="ferret-1" class="ferret-farmer" width=120px alt="Granjero" src=/assets/img/ferret/ferret1.jpg /&gt;
+&lt;img id=ferret-2 class="ferret-farmer" width=120px alt="Granjero" src=/assets/img/ferret/ferret2.jpg /&gt;
+&lt;img id="ferret-7" class="ferret-farmer" width=120px alt="Granjero" src=/assets/img/ferret/ferret7.jpg /&gt;
+&lt;img id="ferret-14" class="ferret-thug" width=120px alt="Thug" src=/assets/img/ferret/ferret14.jpg /&gt;
+&lt;img id=ferret-15 class="ferret-thug" width=120px alt="Thug" src=/assets/img/ferret/ferret15.jpg /&gt;
+&lt;img id=ferret-18 class="ferret-thug" width=120px alt="Thug" src=/assets/img/ferret/ferret18.jpg /&gt;
+    </code>
+</pre>
+
+                    <fieldset>
+                        <legend>Renderizado</legend>
+
+                        <div style="width: 100%;">
+                            <img id="ferret-1" class="ferret ferret-farmer" width=120px alt="Granjero" src=/assets/img/ferret/ferret1.jpg />
+                            <img id=ferret-2 class="ferret ferret-farmer" width=120px alt="Granjero" src=/assets/img/ferret/ferret2.jpg />
+                            <img id="ferret-7" class="ferret ferret-farmer" width=120px alt="Granjero" src=/assets/img/ferret/ferret7.jpg />
+                            <img id="ferret-14" class="ferret ferret-thug" width=120px alt="Thug" src=/assets/img/ferret/ferret14.jpg />
+                            <img id=ferret-15 class="ferret ferret-thug" width=120px alt="Thug" src=/assets/img/ferret/ferret15.jpg />
+                            <img id=ferret-18 class="ferret ferret-thug" width=120px alt="Thug" src=/assets/img/ferret/ferret18.jpg />
+                        </div>
+                    </fieldset>
+
+                    <p style="font-size: bold;">
+                        Nótese que, a diferencia del <strong>"id"</strong>, un elemento puede contener más de un clase.
+                        Cada clase podría brindar diferentes estilos a partir de una o más hojas CSS.
+                        <br>
+                        Si bien los estilos también podrían asignarse utilizando el stributo <strong>"style"</strong>,
+                        se recomienda utilizar clases en vez de estilos en línea. Esto con el objetivo de optimizar el código,
+                        ya que si solo se utilizase el atributo <strong>"style"</strong>, entonces el código se vería caótico.
+                        Por consiguiente, se debe de utilizar el atributo <strong>"style"</strong> en lo más mínimo posible.
+                        <br>
+                        A continuación se mostrará un pequeño ejemplo:
+                    </p>
+
+Teniendo las siguientes clases:
+<pre>
+    <code class="language-css">
+.ferret {
+    display: block;
+    width: 100%;
+    background-color: #CED1C0;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.ferret-farmer {
+    display: inline-block;
+    border: 1px solid #B08A09;
+    background-color: #DCAC0A;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 60px;
+    border-bottom-left-radius: 60px;
+    border-bottom-right-radius: 20px; 
+}
+
+.ferret-thug {
+    display: inline-block;
+    border: 1px solid #0068BA;
+    background-color: #0091D5;
+    border-top-left-radius: 60px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 60px; 
+}
+    </code>
+</pre>
+
+Si no se usasen clases, el contenido se vería así:
+<pre>
+    <code>
+        <div class="ferret-u-container">
+            <div class="ferret-u-element ferret-u-farmer">Granjero 01</div>
+            <div class="ferret-u-element ferret-u-farmer">Granjero 02</div>
+            <div class="ferret-u-element ferret-u-thug">Gángster 01</div>
+            <div class="ferret-u-element ferret-u-thug">Gángster 02</div>
+        </div>
+    </code>
+</pre>
+
+
+
+                </section>
+
+            </section>
+
+        </section>
+
+
+
+        <hr>
+
+        <section>
+            <header>
+                <h2>II) Comentarios</h2>
+            </header>
+
+            <p>
+                Otro elemento básico de las páginas HTML son los comentarios. Esto sirve para ayudar a otros programadores
+                o incluso a nosotros mismos a entender el código implementado en cualquier página. Los comentarios también sirven
+                para documentar los diversos elementos y componentes de la página.
+                <br>
+                Los comentarios son ignorados por los navegadores y, por ende, no serán renderizados en las vistas finales.
+            </p>
+
+<pre>
+    <code class="language-html">
+&lt;!-- Esta es una sección donde estamos implementando nuestro menú de navegación. --&gt;
+&lt;!-- Actualmente contamos con 4 elementos para navegar --&gt;
+&lt;section&gt;
+    &lt;nav&gt;
+        &lt;ul style="list-style-type: none;"&gt;
+            &lt;li style="display: inline-block"&gt;&lt;a href="./home" onclick="return false;"&gt;Inicio&lt;/a&gt;&lt;/li&gt;
+            &lt;li style="display: inline-block"&gt;&lt;a href="./elementos" onclick="return false;"&gt;Elementos&lt;/a&gt;&lt;/li&gt;
+            &lt;li style="display: inline-block"&gt;&lt;a href="./desafios" onclick="return false;"&gt;Desafíos&lt;/a&gt;&lt;/li&gt;
+            &lt;li style="display: inline-block"&gt;&lt;a href="./about" onclick="return false;"&gt;Acerca de&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/nav&gt;
+&lt;/section&gt;
+    </code>
+</pre>
+
+            <fieldset>
+                <legend>Renderizado</legend>
+                <section>
+                    <nav>
+                        <ul style="list-style-type: none;">
+                            <li style="display: inline-block"><a href="./home" onclick="return false;">Inicio</a></li>
+                            <li style="display: inline-block"><a href="./elementos" onclick="return false;">Elementos</a></li>
+                            <li style="display: inline-block"><a href="./desafios" onclick="return false;">Desafíos</a></li>
+                            <li style="display: inline-block"><a href="./about" onclick="return false;">Acerca de</a></li>
+                        </ul>
+                    </nav>
+                </section>
+            </fieldset>
+
+            <p>
+                Como podemos ver, los comentarios empiezan con <b>"&lt;!--"</b> y terminan con <b>"--&gt;"</b>. En medio de esos
+                caracteres se pueden colocar varias líneas de contenido.
+            </p>
+        </section>
+
+
+
+        <script src="/assets/js/prism/prism.js"></script>
+    </body>
+</html>

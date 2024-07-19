@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width">
+        <link rel="icon" type="image/png" href="/assets/img/png/nice.png">
+        
+        <title>MODALES</title>
+        <meta name="description" content="Algo chico sobre elementos modales.">
+    
+        <style>
+            body {
+                background: #f0f0f0;
+            }
+        </style>
+        <link rel="stylesheet" href="/assets/css/prism/prism.css" data-noprefix />
+    </head>
+
+
+    <body>
+        <h1>MODALES</h1>
+        <p>
+            Ahora con el HTML5, han salido nuevas etiquetas las cuales nos pueden hacer la vida "más fácil".
+            Una de esas etiquetas es aquella llamada "dialog". La cual sirve para poder realizar modales. 
+        </p>
+
+        <h2>Ejemplo</h2>
+        <button id="btnVerModal">VER MODAL</button>
+        <dialog id="modalEjemplo" style="background-color: rgb(230, 241, 199);">
+            <section>
+                <header>
+                    Hola, soy un dialog xddddd
+                </header>
+                <p>
+                    Y este es mi pinshi contenido. ALV!!!
+                </p>
+                <footer style="text-align: right;">
+                    <button id="btnCerrarModal">CERRAR</button>
+                </footer>
+            </section>
+        </dialog>
+
+
+
+        <script>
+            // COMO SE PUEDE APRECIAR EN EL SIGUIENTE SCRIPT, A PARTIR DEL OBJETO
+            // "window" PODEMOS ACCEDER A LOS DIFERENTES ELEMENTOS QUE TIENEN UN ID.
+            // ESTO QUIERE DECIR QUE, POR CADA ELEMENTO EN EL DOM QUE CUENTE CON UN "ID"
+            // SE CREARÁ UN OBJETO HIJO DENTRO DEL "window"
+            window.btnVerModal.addEventListener("click", () => {
+                window.modalEjemplo.showModal();
+            });
+
+            window.btnCerrarModal.addEventListener("click", () => {
+                window.modalEjemplo.close();
+            });
+        </script>
+    </body>
+</html>
