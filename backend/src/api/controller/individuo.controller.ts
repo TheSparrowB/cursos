@@ -33,7 +33,7 @@ export class IndividuoController{
                 parametros.obj_orden = pm.generarOrden(parametros.txt_sort_field, parametros.txt_sort_order);
             }
 
-            //CREAREMOS UN REGEXP PARA PODER HACER COMO UN "LIKE"
+            // CREAREMOS UN REGEXP PARA PODER HACER COMO UN "LIKE"
             let patronTipo = new RegExp(parametros.tip_individuo, "i");
 
             let resultados = await IndividuoModel.find({
@@ -48,24 +48,34 @@ export class IndividuoController{
             }).sort(parametros.obj_orden);
 
 
-            //RECORREMOS LOS REGISTROS OBTENIDOS
+            // RECORREMOS LOS REGISTROS OBTENIDOS
+            // CREAMOS UNA NUEVA LISTA DEBIDO A QUE LOS REGISTROS RETORNADOS POR MONGOOSE NO PUEDEN MODIFICARSE
+            let listaFinal = []; 
             for(let r of resultados){
                 //BUSCAMOS SI EXISTE FOTO ALGUNA DEL REGISTRO
                 const ruta = `${path.join(__dirname, "../..", "/public/img/individuo/")}${r._id}.jpg`;
                 let existencia = fs.existsSync(ruta);
-                
-                //SI EL ARCHIVO EXISTE
+
+                let refinado = {
+                    _id: r.get("_id"),
+                    txt_nombre: r.get("txt_nombre"),
+                    tip_individuo: r.get("tip_individuo")
+                };
+
+                // SI EL ARCHIVO EXISTE
                 if(existencia){
-                    r["txt_ruta"] = `${process.env.RUTA_MEDIA}/img/individuo/${r._id}.jpg`;
+                    refinado["txt_ruta"] = `${process.env.RUTA_MEDIA}/img/individuo/${r._id}.jpg`;
                 }
-                //DE LO CONTRARIO, LE ASIGNAMOS UNA RUTA POR DEFECTO
+                // DE LO CONTRARIO, LE ASIGNAMOS UNA RUTA POR DEFECTO
                 else{
-                    r["txt_ruta"] = `${process.env.RUTA_MEDIA}/img/individuo/notfound.jpg`;
+                    refinado["txt_ruta"] = `${process.env.RUTA_MEDIA}/img/individuo/notfound.jpg`;
                 }
+
+                listaFinal.push(refinado);
             }
 
             return res.status(TYPEHTMLCODE.ProcessOk).json(
-                new ServiceResponse(TYPERESPONSECODE.SinError, resultados, "Ok")
+                new ServiceResponse(TYPERESPONSECODE.SinError, listaFinal, "Ok")
             );
         }
         catch(e){

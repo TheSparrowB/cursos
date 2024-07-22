@@ -1401,3 +1401,65 @@ No se ha encontrado un tipo con id "6671a369d63b1d8c345c02b5".
 [2024-06-20 09:41:00] info: Inicializando otros componentes
 [2024-06-20 09:41:00] info: Servidor funcionando en localhost:3100
 [2024-06-20 12:02:44] info: Recibió SIGINT
+[2024-07-22 09:00:15] info: Empezando el servidor
+[2024-07-22 09:00:15] info: --Inicializamos la BD Mongoose
+[2024-07-22 09:00:45] error: --Error al inicializar la BD Mongoose:
+ MongooseServerSelectionError: connect ECONNREFUSED ::1:8101, connect ECONNREFUSED 127.0.0.1:8101
+ FIN
+
+[2024-07-22 09:12:56] info: Empezando el servidor
+[2024-07-22 09:12:56] info: --Inicializamos la BD Mongoose
+[2024-07-22 09:12:56] info: --Base de datos Mongoose iniciada
+[2024-07-22 09:12:56] info: Inicializando otros componentes
+[2024-07-22 09:12:56] info: Servidor funcionando en localhost:3100
+[2024-07-22 09:20:23] info: Empezando el servidor
+[2024-07-22 09:20:23] info: --Inicializamos la BD Mongoose
+[2024-07-22 09:20:23] info: --Base de datos Mongoose iniciada
+[2024-07-22 09:20:23] info: Inicializando otros componentes
+[2024-07-22 09:20:23] info: Servidor funcionando en localhost:3100
+[2024-07-22 09:21:30] info: Empezando el servidor
+[2024-07-22 09:21:30] info: --Inicializamos la BD Mongoose
+[2024-07-22 09:21:31] info: --Base de datos Mongoose iniciada
+[2024-07-22 09:21:31] info: Inicializando otros componentes
+[2024-07-22 09:21:31] info: Servidor funcionando en localhost:3100
+[2024-07-22 09:22:21] info: Empezando el servidor
+[2024-07-22 09:22:21] info: --Inicializamos la BD Mongoose
+[2024-07-22 09:22:21] info: --Base de datos Mongoose iniciada
+[2024-07-22 09:22:21] info: Inicializando otros componentes
+[2024-07-22 09:22:21] info: Servidor funcionando en localhost:3100
+[2024-07-22 09:22:47] info: Empezando el servidor
+[2024-07-22 09:22:47] info: --Inicializamos la BD Mongoose
+[2024-07-22 09:22:47] info: --Base de datos Mongoose iniciada
+[2024-07-22 09:22:47] info: Inicializando otros componentes
+[2024-07-22 09:22:47] info: Servidor funcionando en localhost:3100
+[2024-07-22 09:27:17] info: Empezando el servidor
+[2024-07-22 09:27:17] info: --Inicializamos la BD Mongoose
+[2024-07-22 09:27:17] info: --Base de datos Mongoose iniciada
+[2024-07-22 09:27:17] info: Inicializando otros componentes
+[2024-07-22 09:27:17] info: Servidor funcionando en localhost:3100
+[2024-07-22 09:29:40] info: Empezando el servidor
+[2024-07-22 09:29:40] info: --Inicializamos la BD Mongoose
+[2024-07-22 09:29:40] info: --Base de datos Mongoose iniciada
+[2024-07-22 09:29:40] info: Inicializando otros componentes
+[2024-07-22 09:29:40] info: Servidor funcionando en localhost:3100
+[2024-07-22 09:31:53] info: Empezando el servidor
+[2024-07-22 09:31:53] info: --Inicializamos la BD Mongoose
+[2024-07-22 09:31:53] info: --Base de datos Mongoose iniciada
+[2024-07-22 09:31:53] info: Inicializando otros componentes
+[2024-07-22 09:31:53] info: Servidor funcionando en localhost:3100
+[2024-07-22 09:33:04] info: Empezando el servidor
+[2024-07-22 09:33:04] info: --Inicializamos la BD Mongoose
+[2024-07-22 09:33:04] info: --Base de datos Mongoose iniciada
+[2024-07-22 09:33:04] info: Inicializando otros componentes
+[2024-07-22 09:33:04] info: Servidor funcionando en localhost:3100
+[2024-07-22 09:33:32] info: Empezando el servidor
+[2024-07-22 09:33:32] info: --Inicializamos la BD Mongoose
+[2024-07-22 09:33:32] info: --Base de datos Mongoose iniciada
+[2024-07-22 09:33:32] info: Inicializando otros componentes
+[2024-07-22 09:33:32] info: Servidor funcionando en localhost:3100
+[2024-07-22 09:34:27] info: Empezando el servidor
+[2024-07-22 09:34:27] info: --Inicializamos la BD Mongoose
+[2024-07-22 09:34:27] info: --Base de datos Mongoose iniciada
+[2024-07-22 09:34:27] info: Inicializando otros componentes
+[2024-07-22 09:34:27] info: Servidor funcionando en localhost:3100
+[2024-07-22 09:39:28] info: Recibió SIGINT

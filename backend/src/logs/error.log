@@ -534,3 +534,7 @@ No se ha encontrado un tipo con id "6671a369d63b1d8c345c02b5".
 [2024-06-18 10:13:03] error: --PARAMETROS: {"nid_tipo":"6671a369d63b1d8c345c02b5"}
 [2024-06-18 10:13:03] error: FIN
 
+[2024-07-22 09:00:45] error: --Error al inicializar la BD Mongoose:
+ MongooseServerSelectionError: connect ECONNREFUSED ::1:8101, connect ECONNREFUSED 127.0.0.1:8101
+ FIN
+
