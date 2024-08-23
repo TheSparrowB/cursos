@@ -30,6 +30,9 @@ npm i -D <paquete>
 ###########################################################################################################################################################
 VOLTA
 
+> Instala una versión particular de un paquete.
+volta install <paquete>@<version>
+
 > Lista todas las versiones del <paquete> instaladas
 volta list <paquete>
 

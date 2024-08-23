@@ -1,0 +1,1 @@
+https://medium.com/@lukas.caniga/angular-17-as-microfrontend-native-federation-supporting-pwa-and-ssr-1e9d43eb411d

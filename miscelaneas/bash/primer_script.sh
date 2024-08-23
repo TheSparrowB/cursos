@@ -5,6 +5,7 @@
 
 #PRIMERO VAMOS A MOSTRAR LA RUTA DEL SCRIPT
 echo 'Mostramos la ruta donde nos encontramos'
+echo !!!!!!!!!!!!!!!!!!!!El titán simbiónico.
 pwd
 
 cd ~

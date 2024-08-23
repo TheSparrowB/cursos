@@ -31,3 +31,4 @@ Navegación:
 - gg				(Ir al inicio del documento)
 - GG				(Ir al final del documento)
 - <numero>G			(Ir a la línea número "n")
+- <numero>yy			(Copia una línea entera)
